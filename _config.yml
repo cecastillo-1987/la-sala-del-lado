@@ -3,9 +3,12 @@ title: La sala del lado
 email: cecastillo@uchile.cl
 description: >- # esta es la descripción que se mostrará en los buscadores
   Un blog de escritura cinéfila.
-baseurl: "" # si tu sitio está en un subdirectorio, p. ej. /blog
-url: "" # la URL base de tu sitio
+baseurl: "/la-sala-del-lado/" # si tu sitio está en un subdirectorio, p. ej. /blog
+url: "https://cecastillo-1987.github.io" # la URL base de tu sitio
 github_username: cecastillo-1987
+
+# Nueva configuración de idioma
+locale: "es-es"
 
 # Configuración de construcción
 markdown: kramdown
@@ -20,5 +23,13 @@ author:
   bio: "Una biografía corta del autor."
   # avatar: "/assets/images/avatar.jpg"
 
+ 
+# Opcional: Logo para la cabecera (masthead)
+logo: "/assets/images/corisco.jpeg"
+
+
 # Opcional: Otras configuraciones del tema
 # Puedes encontrar más opciones en la documentación oficial del tema
+
+# Site skin
+skin: "/assets/css/skins/light.css"
