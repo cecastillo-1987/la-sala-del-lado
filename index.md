@@ -1,6 +1,4 @@
 ---
 layout: home
-title: "¡Bienvenido!"
+title: 
 ---
-
-¡Hola! Este es el inicio de mi blog.

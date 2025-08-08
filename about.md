@@ -1,8 +1,7 @@
-+++
-date = '2025-08-05T22:22:27-04:00'
-draft = false
-title = 'Colabora'
-+++
+---
+layout: page
+title: Acerca
+---
 
 ¡Bienvenidos a la sala del lado! Soy César Castillo y este blog es un espacio para compartir escrituras cinefilas. 
 

@@ -1,1 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-08T00:13:35-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">La sala del lado</title><subtitle>Un blog de escritura cinéfila.</subtitle><author><name>César Castillo</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/la-sala-del-lado/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/la-sala-del-lado/" rel="alternate" type="text/html" /><updated>2025-08-08T02:20:36-04:00</updated><id>http://localhost:4000/la-sala-del-lado/feed.xml</id><title type="html">La sala del lado</title><subtitle>Un blog de escritura cinéfila.</subtitle><entry><title type="html">Post De Prueba</title><link href="http://localhost:4000/la-sala-del-lado/jekyll/2023/10/27/prueba.html" rel="alternate" type="text/html" title="Post De Prueba" /><published>2023-10-27T13:00:00-03:00</published><updated>2023-10-27T13:00:00-03:00</updated><id>http://localhost:4000/la-sala-del-lado/jekyll/2023/10/27/prueba</id><content type="html" xml:base="http://localhost:4000/la-sala-del-lado/jekyll/2023/10/27/prueba.html"><![CDATA[<p>¡Hola a todos!</p>
+
+<p>Este es el contenido de mi primer post de prueba. He creado este post para verificar que mi sitio de Hugo está funcionando correctamente con el tema Anatole.</p>
+
+<hr />
+
+<h3 id="encabezados">Encabezados</h3>
+<p>Aquí hay un ejemplo de diferentes niveles de encabezados para ver si se muestran bien.</p>
+
+<h4 id="subtítulo-nivel-4">Subtítulo Nivel 4</h4>
+<p>Este es un subtítulo.</p>
+
+<h5 id="subtítulo-nivel-5">Subtítulo Nivel 5</h5>
+<p>Este es otro subtítulo.</p>
+
+<h3 id="formato-de-texto">Formato de texto</h3>
+<ul>
+  <li><strong>Negrita</strong>: Un texto en <strong>negrita</strong>.</li>
+  <li><em>Cursiva</em>: Un texto en <em>cursiva</em>.</li>
+  <li><code class="language-plaintext highlighter-rouge">Código</code>: Un fragmento de <code class="language-plaintext highlighter-rouge">código en línea</code>.</li>
+</ul>
+
+<h3 id="listas">Listas</h3>
+<ol>
+  <li>Primer ítem de una lista numerada.</li>
+  <li>Segundo ítem.
+    <ul>
+      <li>Un sub-ítem.</li>
+      <li>Otro sub-ítem.</li>
+    </ul>
+  </li>
+  <li>Tercer ítem.</li>
+</ol>
+
+<ul>
+  <li>Primer ítem de una lista con viñetas.</li>
+  <li>Segundo ítem.</li>
+</ul>
+
+<h3 id="enlaces">Enlaces</h3>
+<p>Aquí tienes un <a href="https://gohugo.io/">enlace a la página de Hugo</a>.</p>
+
+<hr />
+
+<h3 id="todo-listo">¡Todo listo!</h3>
+<p>Si puedes ver este post correctamente en tu navegador, significa que el tema está configurado para mostrar los posts y que tu archivo <code class="language-plaintext highlighter-rouge">.md</code> es válido. Si aún tienes problemas, es posible que la configuración de tu <code class="language-plaintext highlighter-rouge">hugo.toml</code> o la plantilla <code class="language-plaintext highlighter-rouge">list.html</code> esté causando el problema.</p>]]></content><author><name>Marisol</name></author><category term="jekyll" /><category term="primer" /><category term="tutorial" /><summary type="html"><![CDATA[¡Hola a todos!]]></summary></entry></feed>

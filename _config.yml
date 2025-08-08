@@ -18,10 +18,12 @@ plugins:
   - jekyll-seo-tag
 
 # Opcional: Personalizar el autor para el tema "So Simple"
-author:
-  name: "César Castillo"
-  bio: "Una biografía corta del autor."
-  # avatar: "/assets/images/avatar.jpg"
+# Detalles del autor
+authors:
+  cesar:
+    name: "César Castillo"
+    bio: "Una biografía corta del autor."
+    # avatar: "/assets/images/avatar.jpg"
 
  
 # Opcional: Logo para la cabecera (masthead)
@@ -33,3 +35,12 @@ logo: "/assets/images/corisco.jpeg"
 
 # Site skin
 skin: "/assets/css/skins/light.css"
+
+
+# Configuración de Google Fonts
+google_fonts:
+google_fonts:
+  - name: "PLayfair Display"
+    weights: "400,400i,700,700i"
+  - name: "Lato"
+    weights: "400,400i,700,700i"
