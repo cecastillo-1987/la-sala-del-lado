@@ -1,0 +1,24 @@
+# Título, descripción y detalles del autor
+title: La sala del lado
+email: cecastillo@uchile.cl
+description: >- # esta es la descripción que se mostrará en los buscadores
+  Un blog de escritura cinéfila.
+baseurl: "" # si tu sitio está en un subdirectorio, p. ej. /blog
+url: "" # la URL base de tu sitio
+github_username: cecastillo-1987
+
+# Configuración de construcción
+markdown: kramdown
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Opcional: Personalizar el autor para el tema "So Simple"
+author:
+  name: "César Castillo"
+  bio: "Una biografía corta del autor."
+  # avatar: "/assets/images/avatar.jpg"
+
+# Opcional: Otras configuraciones del tema
+# Puedes encontrar más opciones en la documentación oficial del tema
