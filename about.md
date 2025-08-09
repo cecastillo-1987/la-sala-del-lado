@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Acerca
+permalink: /about/
 ---
 
 ¡Bienvenidos a la sala del lado! Soy César Castillo y este blog es un espacio para compartir escrituras cinefilas. 
