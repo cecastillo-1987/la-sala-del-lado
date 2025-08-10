@@ -1,10 +1,16 @@
 ---
 layout: page
-title: Acerca
+title: Colabora
 permalink: /about/
+thumbnail: /assets/images/las-soeldades-2.png
 ---
+![Texto alternativo](assets/images/las-soledades-2.png)
+<img src="{{ site.baseurl }}/assets/images/las-soledades-2.png" alt="Texto" style="width:500px;" />
+# La sala del lado
 
-¡Bienvenidos a la sala del lado! Soy César Castillo y este blog es un espacio para compartir escrituras cinefilas. 
+*Tengo la voz mal impostada, como el 80 por ciento de los chilenos. La forma en que aquí se están discutiendo las cosas, en forma declamatoria, vaga y parlamentaria, es reñida con la manera de ser chilena. Nosotros conversamos las cosas en otra forma. Aquí se están repitiendo lugares comunes sobre imperialismo y cultura que se pueden leer en cualquier revista; y luego viene Fernando Solanas a contarnos _La hora de los hornos_, que ya vimos anoche. Nosotros nos vamos a la sala del lado a hablar de cine. Los que quieran pueden venirse con nosotros. Ah, y tampoco nos gusta que nos tomen _p’al fideo_ (la expresión empleada fue más fuerte y más chilena) al _Che_ Guevara. Eso es igual a los españoles que, en las reuniones de cineastas, colocan una estatuilla de San Juan Bosco sobre la mesa.*
+
+# Colabora 
 
 un conjunto limitado de intervenciones:
 - procesión: tres personas comentan una misma escena de una película reciente en un texto corto (500 palabras/1500 palabras total)
@@ -13,5 +19,7 @@ un conjunto limitado de intervenciones:
 - voladores: textos referidos al estado del cine y el campo de las imágenes en general, bajo la condición de no mencionar imágenes ni escenas ni autores. Abstracciones diagnósticas prospectivas que permitan a otros interpretar para abrirse camino. 
 - cadaver: una vez al año el equipo abre la invitación a participar en un cadaver exquisito, suerte de anti lista del año, a todo el público de la revista. 
 
+# Política editorial
 
-*Tengo la voz mal impostada, como el 80 por ciento de los chilenos. La forma en que aquí se están discutiendo las cosas, en forma declamatoria, vaga y parlamentaria, es reñida con la manera de ser chilena. Nosotros conversamos las cosas en otra forma. Aquí se están repitiendo lugares comunes sobre imperialismo y cultura que se pueden leer en cualquier revista; y luego viene Fernando Solanas a contarnos _La hora de los hornos_, que ya vimos anoche. Nosotros nos vamos a la sala del lado a hablar de cine. Los que quieran pueden venirse con nosotros. Ah, y tampoco nos gusta que nos tomen _p’al fideo_ (la expresión empleada fue más fuerte y más chilena) al _Che_ Guevara. Eso es igual a los españoles que, en las reuniones de cineastas, colocan una estatuilla de San Juan Bosco sobre la mesa.*
+El equipo editorial en este momento es unipersonal y correspond solamente a mi persona, César Castillo. Puedes contactarme al correo del blog o en mi [instagram](https://instagram.com/cvegces)
+
