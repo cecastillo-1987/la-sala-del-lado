@@ -1,3 +1,9 @@
+@charset "UTF-8";
+/* 1) Si quieres cargar fuentes desde aquí (opcional; prefiero head-custom.html) */
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&family=Lato:wght@300;400;700&display=swap");
+/* 2) -- OPCIÓN PREFERENTE: sobrescribir variables SASS del tema (estas asignaciones deben ir ANTES del @import; nombres de variables pueden variar) */
+/* Si el tema tiene variables para fuentes, ponlas aquí. Ejemplo (puede que el nombre sea otro): */
+/* 3) Importa el resto del tema (obligatorio) */
 /*!
  * So Simple Jekyll Theme 3.2.0
  * Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
@@ -678,3 +684,17 @@ figure.align-center figcaption { text-align: center; }
 .responsive-embed-4by3::before { padding-top: 75%; }
 
 .responsive-embed-1by1::before { padding-top: 100%; }
+
+/* 4) Refuerzos CSS (si el tema usa selectores muy específicos) */
+html, body { font-family: 'Lato', sans-serif !important; color: #DFEED1 !important; background: #1F3920 !important; }
+
+h1, h2, h3, h4, h5, h6 { font-family: 'Playfair Display', serif !important; }
+
+/* Quitar mayúsculas en la navegación (regla genérica — ajustaremos selector si es necesario) */
+nav a, .navbar a, .navigation a, .site-navigation a, .main-nav a { text-transform: none !important; letter-spacing: normal !important; }
+
+/* Forzar color/acento en enlaces (si no funciona vía variable) */
+a, .site-header a { color: #FDE8CB !important; }
+
+/* logo conservado en tamaño */
+.site-logo img { width: auto; height: 300px; /* o el alto que prefieras */ max-width: 100%; object-fit: contain; border: none !important; box-shadow: none !important; background: transparent !important; }

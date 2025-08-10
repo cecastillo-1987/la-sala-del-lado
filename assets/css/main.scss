@@ -1,41 +1,47 @@
-// 1. Importar las fuentes de Google Fonts
-// Estas líneas cargan las fuentes de Google para que estén disponibles.
-@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+EAN13+Text&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700,1,900&display=swap');
+---
+sitemap: false
+---
 
+/* 1) Si quieres cargar fuentes desde aquí (opcional; prefiero head-custom.html) */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&family=Lato:wght@300;400;700&display=swap');
 
-// 2. Sobrescribir variables de Sass del tema 'So Simple'
-// Esta es la forma correcta de personalizar el tema.
-// Al definir estas variables aquí, sobrescribes los valores por defecto del tema.
-
+/* 2) -- OPCIÓN PREFERENTE: sobrescribir variables SASS del tema
+   (estas asignaciones deben ir ANTES del @import; nombres de variables pueden variar) */
+$accent-color: #FDE8CB;
+$body-background-color-light: #DFEED1;
+$text-color-light: #1F3920;
+/* Si el tema tiene variables para fuentes, ponlas aquí. Ejemplo (puede que el nombre sea otro): */
 $base-font: 'Lato', sans-serif;
 $header-font: 'Playfair Display', serif;
-$special-font: 'Libre Barcode EAN13 Text', monospace;
 
-// También puedes sobrescribir tus variables de colores aquí:
-$accent-color: #BCBF54;
-$body-background-color-light: #EEF3ED;
-$text-color-light: #202620;
-$body-background-color-dark: #244023;
-$text-color-dark: #E3F2E4;
+/* 3) Importa el resto del tema (obligatorio) */
+@import "so-simple";
 
-// 3. Reglas CSS adicionales (opcional)
-// Aquí puedes agregar cualquier regla CSS que no se pueda manejar con variables.
-// Por ejemplo, para aplicar la fuente a títulos específicos si el tema no lo hace por defecto.
-.post__content h1,
-.post__content h2,
-.post__content h3,
-.post__content h4,
-.post__content h5,
-.post__content h6,
-.post__footer-date,
-.sidebar__introduction-title a,
-.sidebar__introduction-title h1 {
-  font-family: $header-font;
+/* 4) Refuerzos CSS (si el tema usa selectores muy específicos) */
+html, body { font-family: 'Lato', sans-serif !important; color: #DFEED1 !important; background: #1F3920 !important; }
+h1,h2,h3,h4,h5,h6 { font-family: 'Playfair Display', serif !important; }
+
+/* Quitar mayúsculas en la navegación (regla genérica — ajustaremos selector si es necesario) */
+nav a,
+.navbar a,
+.navigation a,
+.site-navigation a,
+.main-nav a {
+  text-transform: none !important;
+  letter-spacing: normal !important;
 }
 
-// 4. Importar el resto de los estilos del tema 'So Simple'
-// Esto es CRUCIAL. Debes importar los estilos del tema después de
-// definir tus variables para que los cambios se apliquen.
-// Asumo una estructura de importaciones estándar para el tema.
-@import "so-simple";
+/* Forzar color/acento en enlaces (si no funciona vía variable) */
+a, .site-header a { color: #FDE8CB !important; }
+
+/* logo conservado en tamaño */
+.site-logo img {
+  width: auto;
+  height: 300px; /* o el alto que prefieras */
+  max-width: 100%;
+  object-fit: contain;
+  border: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
+
