@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: Colabora
 permalink: /about/
-thumbnail: /assets/images/las-soeldades-2.png
+thumbnail: /assets/images/las-soledades-2.png
 ---
 ![Texto alternativo](assets/images/las-soledades-2.png)
 <img src="{{ site.baseurl }}/assets/images/las-soledades-2.png" alt="Texto" style="width:500px;" />

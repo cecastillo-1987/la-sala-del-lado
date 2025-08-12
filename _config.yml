@@ -16,6 +16,8 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
 
 # Opcional: Personalizar el autor para el tema "So Simple"
 # Detalles del autor
@@ -44,3 +46,22 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lato"
     weights: "400,400i,700,700i"
+
+# Configuración de SEO
+
+# configuración de búsqueda
+search_full_content: true
+
+# footer
+
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/tu_usuario
+    icon: fab fa-twitter-square
+  - title: Instagram
+    url: https://instagram.com/tu_usuario
+    icon: fab fa-instagram-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
+
