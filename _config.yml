@@ -56,12 +56,11 @@ search_full_content: true
 
 footer_links:
   - title: Twitter
-    url: https://twitter.com/tu_usuario
+    url: https://twitter.com/lasaladellado
     icon: fab fa-twitter-square
   - title: Instagram
-    url: https://instagram.com/tu_usuario
-    icon: fab fa-instagram-square
+    url: https://instagram.com/lasaladellado
+    icon: fab fa-instagram
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
-
