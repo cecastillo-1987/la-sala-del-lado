@@ -1,8 +1,12 @@
 ---
-layout: page
+layout: post
 title: Colabora
 permalink: /about/
+<<<<<<< HEAD
 thumbnail: assets\images\las-soledades-2.png
+=======
+thumbnail: /assets/images/las-soledades-2.png
+>>>>>>> dbb7e54ed1bf122d97435372d4f00de2fc237d34
 ---
 <img src="{{ '/assets/images/las-soledades-2.png' | relative_url }}" 
      alt="Las soledades (1991) Raúl Ruiz" 

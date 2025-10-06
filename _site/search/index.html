@@ -16,20 +16,20 @@
   
     
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>La sala del lado | Un blog de escritura cinéfila.</title>
+<title>Buscar | La sala del lado</title>
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="La sala del lado" />
+<meta property="og:title" content="Buscar" />
 <meta property="og:locale" content="es_es" />
 <meta name="description" content="Un blog de escritura cinéfila." />
 <meta property="og:description" content="Un blog de escritura cinéfila." />
-<link rel="canonical" href="http://localhost:4000/la-sala-del-lado/" />
-<meta property="og:url" content="http://localhost:4000/la-sala-del-lado/" />
+<link rel="canonical" href="http://localhost:4000/la-sala-del-lado/search/" />
+<meta property="og:url" content="http://localhost:4000/la-sala-del-lado/search/" />
 <meta property="og:site_name" content="La sala del lado" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="La sala del lado" />
+<meta property="twitter:title" content="Buscar" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Un blog de escritura cinéfila.","headline":"La sala del lado","name":"La sala del lado","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/la-sala-del-lado/assets/images/caballito.png"}},"url":"http://localhost:4000/la-sala-del-lado/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Un blog de escritura cinéfila.","headline":"Buscar","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/la-sala-del-lado/assets/images/caballito.png"}},"url":"http://localhost:4000/la-sala-del-lado/search/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -56,7 +56,7 @@
 </head>
 
 
-  <body class="layout--home  ">
+  <body class="layout--search  buscar">
     <nav class="skip-links">
   <h2 class="screen-reader-text">Skip links</h2>
   <ul>
@@ -85,7 +85,7 @@
     
     
       
-        <h1 class="site-title animated fadeIn"><a href="/la-sala-del-lado/">La sala del lado</a></h1>
+        <div class="site-title animated fadeIn"><a href="/la-sala-del-lado/">La sala del lado</a></div>
       
       <p class="site-description animated fadeIn" itemprop="description">Un blog de escritura cinéfila.</p>
     
@@ -101,48 +101,18 @@
       <header class="page-header">
         
         
-          <h1 id="page-title" class="page-title"></h1>
+          <h1 id="page-title" class="page-title">Buscar</h1>
         
       </header>
       <div class="page-content">
         
 
 
-<div class="entries-list">
+<form onsubmit="return false;">
+  <input type="input" id="search" class="search-input" placeholder="Enter your search term..." autofocus>
+</form>
 
-<article class="entry h-entry">
-  <header class="entry-header">
-    <h3 class="entry-title p-name">
-      
-        <a href="/la-sala-del-lado/2025/10/05/presentaci%C3%B3n.html" rel="bookmark">Presentación
-</a>
-      
-    </h3>
-    
-      
-      
-      
-      <img class="entry-image u-photo" src="/la-sala-del-lado/assets/images/las-soledades-1.jpg" alt="">
-    
-  </header>
-  
-    <div class="entry-excerpt p-summary">
-      
-        <p><img src="/la-sala-del-lado/assets/images/las-soledades-2.png" alt="Las soledades (1991) Raúl Ruiz" style="width:auto;max-height:463px;display:block;margin:auto;" /></p>
-
-
-      
-    </div>
-  
-  
-    <footer class="entry-meta">
-      
-      <time class="entry-date dt-published" datetime="2025-10-05T00:00:00-03:00">October 5, 2025
-  </time>
-    </footer>
-  
-</article>
-</div>
+<div id="results"></div>
 
 
         
@@ -167,6 +137,68 @@
   <script src="/la-sala-del-lado/assets/js/main.min.js"></script>
   <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
 
+<script src="/la-sala-del-lado/assets/js/lunr/lunr.min.js"></script>
+  <script src="/la-sala-del-lado/assets/js/search-data.js"></script>
+  <script>
+    var idx = lunr(function () {
+      
+      // the, the normal lunr index initialization
+      this.field('title')
+      this.field('excerpt')
+      this.field('categories')
+      this.field('tags')
+      this.ref('id')
+
+      this.pipeline.remove(lunr.trimmer)
+
+      // add documents to index
+      for (var item in store) {
+        this.add({
+          title: store[item].title,
+          excerpt: store[item].excerpt,
+          categories: store[item].categories,
+          tags: store[item].tags,
+          id: item
+        })
+      }
+    });
+
+    console.log(jQuery.type(idx));
+
+    $(document).ready(function () {
+      $('input#search').on('keyup', function () {
+        var resultdiv = $('#results');
+        var query = $(this).val().toLowerCase();
+        var result =
+          idx.query(function (q) {
+            query.split(lunr.tokenizer.separator).forEach(function (term) {
+              q.term(term, { boost: 100 })
+              if (query.lastIndexOf(" ") != query.length - 1) {
+                q.term(term, { usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 })
+              }
+              if (term != "") {
+                q.term(term, { usePipeline: false, editDistance: 1, boost: 1 })
+              }
+            })
+          });
+        resultdiv.empty();
+        resultdiv.prepend('<p class="results__found">' + result.length + ' Result(s) found</p>');
+        for (var item in result) {
+          var ref = result[item].ref;
+          var searchitem =
+            '<article class="entry">' +
+              '<h3 class="entry-title">' +
+                '<a href="' + store[ref].url + '">' + store[ref].title + '</a>' +
+              '</h3>' +
+              '<div class="entry-excerpt">' +
+                '<p>' + store[ref].excerpt.split(" ").splice(0, 20).join(" ") + '...</p>' +
+              '</div>' +
+            '</article>';
+          resultdiv.append(searchitem);
+        }
+      });
+    });
+  </script>
 
   </body>
 
