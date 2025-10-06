@@ -1,12 +1,11 @@
 ---
-layout: page
-title: Colabora
-permalink: /about/
-thumbnail: assets\images\las-soledades-2.png
+layout: post
+title: "Presentación"
+date: 2025-10-05
 ---
 <img src="{{ '/assets/images/las-soledades-2.png' | relative_url }}" 
      alt="Las soledades (1991) Raúl Ruiz" 
-     style="width:auto;height:auto;display:block;margin:auto;">
+     style="width:auto;max-height:463px;display:block;margin:auto;">
 
 # La sala del lado
 
@@ -45,4 +44,5 @@ El equipo editorial en este momento es unipersonal y corresponde solamente a mi 
 Todas las propuestas de textos serán revisadas y editadas en conjunto con sus autores/as, buscando siempre favorecer el desarrollo de los textos desde el comentario constructivo y el respeto. En caso de que un texto resulte rechazado para su publicación, se explicarán clara y honestamente las razones de su rechazo. 
 
 Cualquier persona puede envíar una propuesta. Las autora/es conservarán todos los derechos sobre sus textos. Los textos se publican bajo una licencia creative commons CC-BY-Nc-ND 4.0 
+
 

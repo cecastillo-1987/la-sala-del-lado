@@ -29,6 +29,7 @@ authors:
 # Opcional: Logo para la cabecera (masthead)
 logo: "assets/images/caballito.png"
 
+search_full_content: true
 
 # Opcional: Otras configuraciones del tema
 # Puedes encontrar más opciones en la documentación oficial del tema
@@ -44,3 +45,10 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lato"
     weights: "400,400i,700,700i"
+
+
+    # Footer Links
+footer_links:
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square

@@ -1,6 +1,6 @@
 var store = [{
-        "title": "Post de Prueba",
-        "excerpt":"¡Hola a todos! Este es el contenido de mi primer post de prueba. He creado este post para verificar que mi sitio de Hugo está funcionando correctamente con el tema Anatole. Encabezados Aquí hay un ejemplo de diferentes niveles de encabezados para ver si se muestran bien. Subtítulo Nivel 4...","categories": [],
+        "title": "Presentación",
+        "excerpt":"La sala del lado Es conocida la anécdota desde la que sale el nombre de este blog: Durante el Festival de Viña del Mar del año 1969, en lo que Hans Ehrmann en su crónica del evento llamó un “Incidente fronterizo”, Raúl Ruiz se transformó en el portavoz del malestar...","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/la-sala-del-lado/2025/08/07/prueba.html"
+        "url": "http://localhost:4000/la-sala-del-lado/2025/10/05/presentaci%C3%B3n.html"
       }]

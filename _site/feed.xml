@@ -1,46 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/la-sala-del-lado/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/la-sala-del-lado/" rel="alternate" type="text/html" /><updated>2025-08-09T22:54:30-04:00</updated><id>http://localhost:4000/la-sala-del-lado/feed.xml</id><title type="html">La sala del lado</title><subtitle>Un blog de escritura cinéfila.</subtitle><entry><title type="html">Post de Prueba</title><link href="http://localhost:4000/la-sala-del-lado/2025/08/07/prueba.html" rel="alternate" type="text/html" title="Post de Prueba" /><published>2025-08-07T10:00:00-04:00</published><updated>2025-08-07T10:00:00-04:00</updated><id>http://localhost:4000/la-sala-del-lado/2025/08/07/prueba</id><content type="html" xml:base="http://localhost:4000/la-sala-del-lado/2025/08/07/prueba.html"><![CDATA[<p>¡Hola a todos!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/la-sala-del-lado/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/la-sala-del-lado/" rel="alternate" type="text/html" /><updated>2025-10-06T00:07:20-03:00</updated><id>http://localhost:4000/la-sala-del-lado/feed.xml</id><title type="html">La sala del lado</title><subtitle>Un blog de escritura cinéfila.</subtitle><entry><title type="html">Presentación</title><link href="http://localhost:4000/la-sala-del-lado/2025/10/05/presentaci%C3%B3n.html" rel="alternate" type="text/html" title="Presentación" /><published>2025-10-05T00:00:00-03:00</published><updated>2025-10-05T00:00:00-03:00</updated><id>http://localhost:4000/la-sala-del-lado/2025/10/05/presentaci%C3%B3n</id><content type="html" xml:base="http://localhost:4000/la-sala-del-lado/2025/10/05/presentaci%C3%B3n.html"><![CDATA[<p><img src="/la-sala-del-lado/assets/images/las-soledades-2.png" alt="Las soledades (1991) Raúl Ruiz" style="width:auto;max-height:463px;display:block;margin:auto;" /></p>
 
-<p>Este es el contenido de mi primer post de prueba. He creado este post para verificar que mi sitio de Hugo está funcionando correctamente con el tema Anatole.</p>
+<h1 id="la-sala-del-lado">La sala del lado</h1>
 
-<hr />
+<p>Es conocida la anécdota desde la que sale el nombre de este blog: Durante el Festival de Viña del Mar del año 1969, en lo que Hans Ehrmann en su crónica del evento llamó un “Incidente fronterizo”, Raúl Ruiz se transformó en el portavoz del malestar de los chilenos que buscaban evitar el tono “declamatorio” que adquiría el festival entre sus colegas extranjeros. Declamatoria aquí quería decir cierto tipo de decires estancados, palabras comodines en las que no se arriesga nada y peor aún, no se produce nada. Los cineastas se habían entregado a un abordaje de lo político en el cine desde el análisis y el habla propia de la política de ese tiempo, dejando por fuera la realidad concreta del cine, según lo que sentía el grupo de chilenos. En suma, lo político se habría tomado la escena, pero de una forma que no permitía volver al cine. Mediante una intervención famosa, Raúl Ruiz habría “quebrado” el encuentro, no solo haciendo notar que el modo de la conversación chilena sucumbía entre tanta declamatoria, sino además invitando a quiénes quisieran hablar de cine a irse a “la sala del lado”.</p>
 
-<h3 id="encabezados">Encabezados</h3>
-<p>Aquí hay un ejemplo de diferentes niveles de encabezados para ver si se muestran bien.</p>
+<p>Algo de la impostura que haría tan prolífico a Ruiz se jugaba en esta maña chilena, de querer hablar de un cierto modo y no otro, de taimarse en vez de intentar hacerse un espacio cuando los demás hablan de una forma que encuentra más eco o suena más fuerte. O cuando nadie quiere escuchar. No es contradictorio tampoco hablar de cine o política, no es contradictorio hablar de cine y cualquier otra cosa. Es, de hecho, mejor. Pero la impostura permite la anécdota y la anécdota sostiene una imagen mental: una sala del lado, donde se podría, al fin, hablar de cine y nada más, dedicarse al cine a pesar del apremio del mundo.</p>
 
-<h4 id="subtítulo-nivel-4">Subtítulo Nivel 4</h4>
-<p>Este es un subtítulo.</p>
+<p>En mi mente, la anécdota ruiciana siempre estuvo entremezclada con la imagen del <em>black lodge</em> de Twin Peaks, como si pasar a otro espacio fuera también soñar con salirse del mundo atravesando unas cortinas o caerse en un pozo. Desear pensar el cine por si mismo siempre es también el riesgo de un extravío, después de todo la imagen-sonido-en-movimiento no requiere que el narcisismo de nadie venga a cerrarla con una letra. O quizás ese pensar puro del cine también es la tristeza de confirmar la distancia frente al lujo de los seres aburguesados sin otra preocupación que el cultivo personal de su condición estética a la espera de la siguiente mensualidad parental o el riesgo de cegamiento frente a la urgencias de sostener una vida que se vuelve más apremiante, cada día, cada año. La condición innecesaria del enojo y destructividad de los comentaristas a la Roger Ebert o lo paupérrimo del departamento del crítico que aparece rescatando historias olvidadas del cine en <em>Shirkers.</em></p>
 
-<h5 id="subtítulo-nivel-5">Subtítulo Nivel 5</h5>
-<p>Este es otro subtítulo.</p>
+<p>Una vecina bien viejita que vive en mi edificio baja de vez en cuando al patio interior, donde se encuentra el estacionamiento, y con la fuerza que le queda acarrea piedras y esquejes de plantas con el único deseo de construir un jardín en un espacio que ni siquiera le pertenece. Pero le queda al lado y no se ira a ninguna parte, porque no depende de su visibilidad sino de mantenerse abierto a la modificación. Como un cuaderno. Asimismo pensaba en un espacio para hacer algo distinto, algo cercano a lo que se hace con cine en tantos espacios pero al mismo tiempo separado, accesible pero también definido.</p>
 
-<h3 id="formato-de-texto">Formato de texto</h3>
-<ul>
-  <li><strong>Negrita</strong>: Un texto en <strong>negrita</strong>.</li>
-  <li><em>Cursiva</em>: Un texto en <em>cursiva</em>.</li>
-  <li><code class="language-plaintext highlighter-rouge">Código</code>: Un fragmento de <code class="language-plaintext highlighter-rouge">código en línea</code>.</li>
-</ul>
+<p>Cuando me he dedicado a escribir con cierta seriedad siempre he sentido en algún momento que ese espacio es más cómodo cuando es una zona de transición. Al final de <em>Las soledades</em> de Raúl Ruiz, mi película favorita del director en este momento, el protagonista en su versión infantil encuentra un pequeño hipocampo entre las hojas de un libro: “Ese hipocampo sería la llave que me permitiría vivir aquí y allá al mismo tiempo. Desde entonces no he vuelto a aburrirme.”</p>
 
-<h3 id="listas">Listas</h3>
-<ol>
-  <li>Primer ítem de una lista numerada.</li>
-  <li>Segundo ítem.
-    <ul>
-      <li>Un sub-ítem.</li>
-      <li>Otro sub-ítem.</li>
-    </ul>
-  </li>
-  <li>Tercer ítem.</li>
-</ol>
+<p>Lo hago entonces: levanto esta sala del lado, una piedrita a la vez, para escribir de esas películas y cosas cinéfilas que me gustan y al mismo tiempo, ofrezco esta sala del lado a quien quiera sumarse escribiendo algo. Lo hago buscando trabajar estas escrituras sin apuro, sin complejidad y bajo la única servidumbre voluntaria de una estructura guiada por tres referencias:</p>
 
 <ul>
-  <li>Primer ítem de una lista con viñetas.</li>
-  <li>Segundo ítem.</li>
+  <li>La inspiración George Pereciana, construcción de reglas autoimpuestas de escritura y dificultades de redacción que como juegos maniacos obliguen a encontrar otros modos de expresión, reestructurar los lenguajes algorítmicos de la imitación de lo exitoso y lo seguro.</li>
+  <li>La inspiración de las residencias artísticas en maternidad de <a href="https://www.artistresidencyinmotherhood.com/">Lenka Clayton</a>y la necesidad de experimentar la escritura como un modo de habitar temporalmente nuestras relaciones con la experiencia, que implican conjugar las condiciones vitales de esta actividad como materiales antes que obstáculos a los que sobreponerse.</li>
+  <li>El <em>slow blogging</em> de <a href="https://web.archive.org/web/20180928021002/https://www.digitalmanifesto.net/manifestos/11/">Todd Sieling</a>, el rechazo de la inmediatez, la relación con la escritura como cocina, la posibilidad del silencio y la necesidad de sostenerlo para mejor decir, y el restablecimiento de la máquina como agente de la expresión humana.</li>
 </ul>
 
-<h3 id="enlaces">Enlaces</h3>
-<p>Aquí tienes un <a href="https://gohugo.io/">enlace a la página de Hugo</a>.</p>
+<p>Debajo propongo las reglas de textos que estoy proponiendo, pero también se aceptan propuestas para cualquier cosa que se les ocurra.</p>
 
-<hr />
+<h1 id="colabora">Colabora</h1>
 
-<h3 id="todo-listo">¡Todo listo!</h3>
-<p>Si puedes ver este post correctamente en tu navegador, significa que el tema está configurado para mostrar los posts y que tu archivo <code class="language-plaintext highlighter-rouge">.md</code> es válido. Si aún tienes problemas, es posible que la configuración de tu <code class="language-plaintext highlighter-rouge">hugo.toml</code> o la plantilla <code class="language-plaintext highlighter-rouge">list.html</code> esté causando el problema.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[¡Hola a todos!]]></summary></entry></feed>
+<p>La invitación a enviar colaboraciones al blog está abierta, como propuesta las siguientes orientaciones:</p>
+
+<ul>
+  <li><strong>Procesión</strong>: tres personas comentan una misma escena de una película  en un texto corto (500 palabras/1500 palabras total)</li>
+  <li><strong>cítricas</strong>: textos cortos (1000 palabras) sobre películas nuevas o viejas bajo dos condiciones: que hayan sido vistas recientemente por quien escribe &amp; sobre las que tenga una opinión intensa y quizás desafortunada. Favorezca la asociación personal y biográfica frente al filme, la potencia de reconexión con otras obras e imágenes, antes que la evaluación de lo buena o mala que pueda ser.</li>
+  <li><strong>Oblicuas</strong>: entrevistas con trabajadore/as del/sobre el cine cuyo tema central sea una cuestión otra que el cine. - <strong>Voladores</strong>: textos largos y reposados referidos al estado del cine y el campo de las imágenes en general, bajo la condición de no mencionar imágenes ni escenas ni autores. Abstracciones diagnósticas prospectivas que permitan a otros interpretarle como oráculo para abrirse camino.</li>
+  <li><strong>Esquivas</strong>: textos cortos sobre películas o sobre el cine en general que integren al texto una condición vital imponderable de la persona escritora. Pueden ser sus obligaciones laborales, las tareas de cuidado que realiza o de las que depende, una contingencia mental o física, una pasión que le consume. Lo importante es que el texto revele y reintegre la conexión entre su experiencia, la escritura cinéfila y las películas.</li>
+  <li><strong>cadaver</strong>: una vez al año abriremos la invitación a participar en un cadaver exquisito en una suerte de anti lista del año.</li>
+</ul>
+
+<h1 id="equipo-y-política-editorial">Equipo y política editorial</h1>
+
+<p>El equipo editorial en este momento es unipersonal y corresponde solamente a mi persona, César Castillo. Puedes contactarme al <a href="mailto:lasaladellado@gmail.com">correo del blog</a> o en mi <a href="https://instagram.com/cvegces">instagram</a></p>
+
+<p>Todas las propuestas de textos serán revisadas y editadas en conjunto con sus autores/as, buscando siempre favorecer el desarrollo de los textos desde el comentario constructivo y el respeto. En caso de que un texto resulte rechazado para su publicación, se explicarán clara y honestamente las razones de su rechazo.</p>
+
+<p>Cualquier persona puede envíar una propuesta. Las autora/es conservarán todos los derechos sobre sus textos. Los textos se publican bajo una licencia creative commons CC-BY-Nc-ND 4.0</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
