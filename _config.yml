@@ -7,6 +7,8 @@ baseurl: "/la-sala-del-lado" # si tu sitio está en un subdirectorio, p. ej. /bl
 url: "https://cecastillo-1987.github.io" # la URL base de tu sitio
 github_username: cecastillo-1987
 
+future: true
+
 # Nueva configuración de idioma
 locale: "es-es"
 
@@ -20,6 +22,7 @@ plugins:
   - jekyll-paginate
 
 # Opcional: Personalizar el autor para el tema "So Simple"
+show_author: true
 # Detalles del autor
 authors:
   cesar:

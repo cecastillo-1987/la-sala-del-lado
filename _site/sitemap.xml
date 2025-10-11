@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/la-sala-del-lado/2025/08/07/prueba.html</loc>
-<lastmod>2025-08-07T10:00:00-04:00</lastmod>
+<loc>http://localhost:4000/la-sala-del-lado/2025/10/05/presentaci%C3%B3n.html</loc>
+<lastmod>2025-10-05T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/la-sala-del-lado/2025/10/09/ensayos-y-errores.html</loc>
+<lastmod>2025-10-09T00:00:00-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/la-sala-del-lado/about/</loc>
