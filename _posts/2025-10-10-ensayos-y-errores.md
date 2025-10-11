@@ -5,8 +5,7 @@ date: 2025-10-09
 author: cesarcastillo
 description: "Análisis del documental chileno 'Ensayos y errores' (2025) de Ignacio Rojas Vallejo, explorando su humor, dirección y falta de rumbo como metáfora contemporánea."
 categories: [cine, documental, chile, comedia]
-tags: [Ignacio Rojas Vallejo, documental chileno, análisis fílmico, ensayos y errores]
-image: /assets/images/ensayos-y-errores-port.jpg
+tags: [Ensayos y errores, Ignacio Rojas Vallejo, documental chileno, análisis fílmico]
 ---
 
 <img src="{{ '/assets/images/ensayos-y-errores-port.jpg' | relative_url }}" 
