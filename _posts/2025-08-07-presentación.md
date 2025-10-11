@@ -3,7 +3,7 @@ layout: post
 title: "Presentación"
 date: 2025-10-05
 ---
-<img src="{{ '/assets/images/las-soledades-2.png' | relative_url }}" 
+<img src="{{ '/assets/images/las-soledades-llave.jpg' | relative_url }}" 
      alt="Las soledades (1991) Raúl Ruiz" 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
@@ -46,3 +46,6 @@ Todas las propuestas de textos serán revisadas y editadas en conjunto con sus a
 Cualquier persona puede envíar una propuesta. Las autora/es conservarán todos los derechos sobre sus textos. Los textos se publican bajo una licencia creative commons CC-BY-Nc-ND 4.0 
 
 
+<img src="{{ '/assets/images/las-soledades-llave-2.jpg' | relative_url }}" 
+     alt="Las soledades (1991) Raúl Ruiz" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">

@@ -1,0 +1,8 @@
+Para Post de Instagram:
+
+- Capa 1 es color #1f3920
+- Se usa capa encima en sobreexpos. linea (añadir)
+
+Para imagen de post:
+
+Se usa mapa de bits/trama de semitonos/lineatura 8 45° redonda
