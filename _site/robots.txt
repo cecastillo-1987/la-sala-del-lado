@@ -1,1 +1,3 @@
 Sitemap: http://localhost:4000/la-sala-del-lado/sitemap.xml
+User-agent: *
+Allow: /
