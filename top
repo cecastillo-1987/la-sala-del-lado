@@ -1,0 +1,114 @@
+[33mcommit f628ef1702e8d61f4d7c8e9d17145dabc6e10fb4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: cecastillo-1987 <cecastillo@uchile.cl>
+Date:   Mon Dec 1 14:32:28 2025 -0300
+
+    revisión post y presentación
+
+[33mcommit 92d78ded175ca7758985887328bae20c60d80a1a[m
+Author: César Castillo <cecastillo@uchile.cl>
+Date:   Thu Nov 20 00:24:06 2025 -0300
+
+    Add CNAME for custom domain
+
+[33mcommit ad2400b58659cbd483f14dabd8aa00d1c6bcbb80[m
+Author: cecastillo-1987 <cecastillo@uchile.cl>
+Date:   Wed Oct 22 15:18:01 2025 -0300
+
+    revisión post y presentación
+
+[33mcommit 38fbd21dd13a4a24a867dd2f48c30270019754d7[m
+Author: cecastillo-1987 <cecastillo@uchile.cl>
+Date:   Tue Oct 21 22:59:30 2025 -0300
+
+    revisión post y presentación
+
+[33mcommit 8b63795b43e2dab236be800e606f8fdf1f7d04c4[m
+Author: cecastillo-1987 <cecastillo@uchile.cl>
+Date:   Sat Oct 11 18:55:12 2025 -0300
+
+    actualiza post 10-10-2025 seo
+
+[33mcommit ba9870eb7a407bcec060759882d9b960757ae336[m
+Author: cecastillo-1987 <cecastillo@uchile.cl>
+Date:   Sat Oct 11 18:39:37 2025 -0300
+
+    actualiza post 10-10-2025 seo
+
+[33mcommit a0c019d4aca8adafe5e610bfce1a18a174a5db63[m
+Author: cecastillo-1987 <cecastillo@uchile.cl>
+Date:   Sat Oct 11 18:23:51 2025 -0300
+
+    actualiza post 10-10-2025 seo
+
+[33mcommit 33c0231a9c79a1bd33fa7a0057e4e73a09a48035[m
+Author: cecastillo-1987 <cecastillo@uchile.cl>
+Date:   Sat Oct 11 00:45:11 2025 -0300
+
+    subida post 10-10-2025
+
+[33mcommit 07047c81ce87aa504e59dd9bb38cddf7d4649ce6[m
+Author: César Castillo <cecastillo@uchile.cl>
+Date:   Mon Oct 6 00:28:59 2025 -0300
+
+    Update about.md
+
+[33mcommit 7ab6907bb60aa0ca74eb8681e39517aaf9eb3c90[m
+Merge: 6c17a88 dbb7e54
+Author: Cesar Castillo <cecastillo@uchile.cl>
+Date:   Mon Oct 6 00:13:46 2025 -0300
+
+    Merge branch 'main' of https://github.com/cecastillo-1987/la-sala-del-lado
+
+[33mcommit 6c17a88ca0ffa9e579a103ba95dd57c42bb0f196[m
+Author: Cesar Castillo <cecastillo@uchile.cl>
+Date:   Mon Oct 6 00:09:41 2025 -0300
+
+    primer post
+
+[33mcommit dbb7e54ed1bf122d97435372d4f00de2fc237d34[m
+Author: cecastillo-1987 <cecastillo@uchile.cl>
+Date:   Wed Aug 13 18:09:06 2025 -0400
+
+    actualizacion
+
+[33mcommit 04117d87f5acb8caa2c70756100d7b2fa86543f1[m
+Author: cecastillo-1987 <cecastillo@uchile.cl>
+Date:   Tue Aug 12 13:17:04 2025 -0400
+
+    actualizado
+
+[33mcommit 3d85abcef6d2e6ef046aa35d8b9ee3b211ed3139[m
+Author: Cesar Castillo <cecastillo@uchile.cl>
+Date:   Sat Aug 9 22:55:54 2025 -0400
+
+    Actualización de post de prueba y ajustes
+
+[33mcommit 4ca72f118773d97d5c85af880560faa53352da7d[m
+Author: Cesar Castillo <cecastillo@uchile.cl>
+Date:   Sat Aug 9 20:08:21 2025 -0400
+
+    Actualización de post de prueba y ajustes
+
+[33mcommit 30ee9478d2c080b3fbff3df57aa7b028b9a3b8d8[m
+Author: Cesar Castillo <cecastillo@uchile.cl>
+Date:   Sat Aug 9 00:57:55 2025 -0400
+
+    actualiza about y foto
+
+[33mcommit 2178bb7feeba5d6c54d73972bb7c75e844e91d41[m
+Author: Cesar Castillo <cecastillo@uchile.cl>
+Date:   Fri Aug 8 02:22:23 2025 -0400
+
+    intento de modificar colores
+
+[33mcommit aaf94b8b4cc131e19f23dc3198cfa6494c5f8182[m
+Author: Cesar Castillo <cecastillo@uchile.cl>
+Date:   Fri Aug 8 00:38:29 2025 -0400
+
+    Añadiendo configuración de navegación, logo y favicon
+
+[33mcommit 336bebc2f45c590ffa788ad6c4e4040e3f44caa4[m
+Author: Cesar Castillo <cecastillo@uchile.cl>
+Date:   Fri Aug 8 00:07:51 2025 -0400
+
+    Configuración inicial de Jekyll y So Simple
