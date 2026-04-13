@@ -4,7 +4,7 @@ title: "Deseo de Dirección: Ensayos y errores (2024) de Ignacio Rojas Vallejo"
 date: 2025-10-09
 author: cesarcastillo
 description: "Análisis del documental chileno 'Ensayos y errores' (2025) de Ignacio Rojas Vallejo, explorando su humor, dirección y falta de rumbo como metáfora contemporánea."
-categories: [citricas]
+categories: [cítricas]
 tags: [Ensayos y errores, Ignacio Rojas Vallejo, cine documental, comedia]
 ---
 

@@ -52,3 +52,8 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lato"
     weights: "400,400i,700,700i"
+
+# Titles
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+

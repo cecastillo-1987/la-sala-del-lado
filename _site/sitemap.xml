@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2025/10/05/presentaci%C3%B3n.html</loc>
+<loc>http://localhost:4000/2025/10/05/presentacion.html</loc>
 <lastmod>2025-10-05T00:00:00-03:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/citricas/2025/10/09/ensayos-y-errores.html</loc>
+<loc>http://localhost:4000/c%C3%ADtricas/2025/10/09/ensayos-y-errores.html</loc>
 <lastmod>2025-10-09T00:00:00-03:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/citricas/2026/04/13/si-vas-para-chile.html</loc>
+<loc>http://localhost:4000/c%C3%ADtricas/2026/04/13/si-vas-para-chile.html</loc>
 <lastmod>2026-04-13T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/posts/</loc>
+<loc>http://localhost:4000/categories/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -28,9 +28,6 @@
 <loc>http://localhost:4000/backup/posts.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/posts/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/search/</loc>
+<loc>http://localhost:4000/tags/</loc>
 </url>
 </urlset>

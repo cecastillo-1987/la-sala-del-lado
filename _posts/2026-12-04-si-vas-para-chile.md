@@ -4,7 +4,7 @@ title: "Escucha y prejuicio: Si vas para Chile (2025) de Amílcar Infante y Seba
 date: 2026-04-13
 author: cesarcastillo
 description: "Análisis del documental chileno 'Si vas para Chile' del año 2025 de Amílcar Infante y Sebastián González, explorando su estilo documental y relación con la actualidad en Chile."
-categories: [citricas]
+categories: [cítricas]
 tags: [Si vas para Chile, Amílcar Infante, Sebastián González,documental chileno, cine documental]
 ---
 
