@@ -12,10 +12,9 @@ tags: [Si vas para Chile, Amílcar Infante, Sebastián González,documental chil
      alt="Si vas para Chile (2025)" 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
-# Escucha y prejuicio
+# Escucha y prejuicio.
 
-<span style="font-variant: small-caps;">Si vas para Chile (2025). Dir. Amílcar Infante & Sebastián González. Largometraje documental. 68 min. Digital. Color.</span><br>
-
+<span style="font-variant: small-caps;">Si vas para Chile (2025). Dir. Amílcar Infante & Sebastián González. Largometraje documental. 68 min. Digital. Color. [Trailer](https://www.youtube.com/watch?v=IJ01KqJAc1Q)</span><br>
 
 En la función de estreno del documental *Si vas para Chile*, dirigida por la dupla formada por Amílcar Infante y Sebastián González, Amílcar comentó que el germen de esta película estuvo en una fotografía: la imagen de un coche de bebé en el aire, arrojado a una densa hoguera por un hombre que lleva puesta una camiseta de la selección chilena de fútbol, mientras al fondo de la imagen vemos una masa de gente con banderas. Recuerdo haber visto esa fotografía el año 2021, cuando la noticia de la violencia desplegada por la horda que marchó por las calles de Iquique recorrió nuestro país y el mundo. Era una violencia dirigida contra migrantes, en particular contra las personas provenientes de Venezuela que por esos días —aún días de pandemia— intentaban encontrar refugio en la ciudad nortina.
 
