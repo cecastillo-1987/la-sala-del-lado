@@ -1,3 +1,8 @@
+# colores
+ #FDE8CB;
+ #DFEED1;
+ #1F3920;
+
 Para Post de Instagram:
 
 - Capa 1 es color #1f3920
@@ -6,3 +11,9 @@ Para Post de Instagram:
 Para imagen de post:
 
 Se usa mapa de bits/trama de semitonos/lineatura 8 45° redonda
+Luego
+    Capa 1 en "Color más oscuro" #FDE8CB;
+    Capa 2 en "sobrexpos lineal (añadir)" Imagen en mapa de bits
+    Capa 3 en #1F3920
+
+    
