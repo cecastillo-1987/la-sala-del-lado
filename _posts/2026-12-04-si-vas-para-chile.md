@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Escucha y prejuicio: Si vas para Chile (2025) de Amílcar Infante y Sebastián González"
+title: "Escucha y prejuicio: Si vas para Chile (2025) de Amilcar Infante y Sebastián González"
 date: 2026-04-13
 author: cesarcastillo
-description: "Análisis del documental chileno 'Si vas para Chile' del año 2025 de Amílcar Infante y Sebastián González, explorando su estilo documental y relación con la actualidad en Chile."
+description: "Análisis del documental chileno 'Si vas para Chile' del año 2025 de Amilcar Infante y Sebastián González, explorando su estilo documental y relación con la actualidad en Chile."
 categories: [cítricas]
-tags: [Si vas para Chile, Amílcar Infante, Sebastián González,documental chileno, cine documental]
+tags: [Si vas para Chile, Amilcar Infante, Sebastián González,documental chileno, cine documental]
 ---
 
 <img src="{{ '/assets/images/2026-12-14 si vas para chile/si-vas-para-chile-1.jpg' | relative_url }}" 
@@ -14,9 +14,9 @@ tags: [Si vas para Chile, Amílcar Infante, Sebastián González,documental chil
 
 # Escucha y prejuicio.
 
-<span style="font-variant: small-caps;">Si vas para Chile (2025). Dir. Amílcar Infante & Sebastián González. Largometraje documental. 68 min. Digital. Color. [Trailer](https://www.youtube.com/watch?v=IJ01KqJAc1Q)</span><br>
+<span style="font-variant: small-caps;">Si vas para Chile (2025). Dir. Amilcar Infante & Sebastián González. Largometraje documental. 68 min. Digital. Color. [Trailer](https://www.youtube.com/watch?v=IJ01KqJAc1Q)</span><br>
 
-En la función de estreno del documental *Si vas para Chile*, dirigida por la dupla formada por Amílcar Infante y Sebastián González, Amílcar comentó que el germen de esta película estuvo en una fotografía: la imagen de un coche de bebé en el aire, arrojado a una densa hoguera por un hombre que lleva puesta una camiseta de la selección chilena de fútbol, mientras al fondo de la imagen vemos una masa de gente con banderas. Recuerdo haber visto esa fotografía el año 2021, cuando la noticia de la violencia desplegada por la horda que marchó por las calles de Iquique recorrió nuestro país y el mundo. Era una violencia dirigida contra migrantes, en particular contra las personas provenientes de Venezuela que por esos días —aún días de pandemia— intentaban encontrar refugio en la ciudad nortina.
+En la función de estreno del documental *Si vas para Chile*, dirigida por la dupla formada por Amilcar Infante y Sebastián González, Amilcar comentó que el germen de esta película estuvo en una fotografía: la imagen de un coche de bebé en el aire, arrojado a una densa hoguera por un hombre que lleva puesta una camiseta de la selección chilena de fútbol, mientras al fondo de la imagen vemos una masa de gente con banderas. Recuerdo haber visto esa fotografía el año 2021, cuando la noticia de la violencia desplegada por la horda que marchó por las calles de Iquique recorrió nuestro país y el mundo. Era una violencia dirigida contra migrantes, en particular contra las personas provenientes de Venezuela que por esos días —aún días de pandemia— intentaban encontrar refugio en la ciudad nortina.
 
 Recuerdo que ese coche se me quedó en la cabeza un buen tiempo. No solo se parecía al coche que mi hijo había usado cuando era más pequeño, sino que además me resultaba un acto incomprensible: ¿Qué clase de persona conscientemente agarra un coche, reconociendo que es el coche de alguna familia que vive en la calle y procede a arrojarlo al fuego? Poco sabíamos en ese momento que esa clase de incomprensión se nos volvería cada vez más común cinco años después, redoblada como una imposible lectura de ciertos otros: nuestros conciudadanos, atrapados en una desconfianza imaginada e instalada desde afuera.
 
