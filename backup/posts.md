@@ -2,6 +2,7 @@
 layout: posts
 title: Entradas
 permalink: /posts/
+sitemap: false
 ---
 
 <!-- Este archivo no necesita contenido adicional aquí.
