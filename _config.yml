@@ -57,3 +57,5 @@ google_fonts:
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 
+# Google Analytics
+google_analytics: "G-8SQGPX2NEM"
