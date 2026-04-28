@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Un exquisito y fílmico cadáver 2025"
-date: 2026-04-20
+date: 2026-04-26
 description: "Un ejercicio de asociación libre cinéfila que agrupo recomendaciones de películas estrenadas o vistas el 2025 en el formato de un cadáver exquisito."
 categories: [cadáver]
-tags: []
+tags: [películas del 2025]
 header:
   overlay_image: /assets/images/2026-20-04/01-Sorda-Eva-Libertad-thumb.jpg
   teaser: /assets/images/2026-20-04/01-Sorda-Eva-Libertad-thumb.jpg
@@ -28,6 +28,13 @@ Recibimos cerca de 20 inscripciones, que fueron ordenadas al azar. Al principio 
 
 Ahora que partimos con la publicación de esta cadena de cartas a ciegas, quiero agradecer a todas las personas que se animaron a participar. Me ha resultado muy grato recibir los textos y pensar de nuevo lo que vimos el 2025 a través de sus miradas y voces. ¿No es acaso parte fundamental de ir al cine que en un momento las luces se enciendan y podamos confirmar que hay más personas en la sala que también vivieron lo mismo y que pueden, sin embargo, decir otra cosa, decir algo más? El ejercicio siempre será provechoso. 
 
+En el siguiente listado pueden encontrar las intervenciones en el orden que tuvieron lugar, que iremos actualizando progresivamente: 
+
+* [Dry leaf (Alexandre Koberidze, 2025) por Nico Castañeda](#dry-leaf-alexandre-koberidze-2025)
+* [Sorda (Eva Libertad, 2025) por Camila Rioseco](#sorda-eva-libertad-2025)
+
+
+
 <p style="text-align: right;">
   <em>El editor</em>
 </p>
@@ -35,6 +42,33 @@ Ahora que partimos con la publicación de esta cadena de cartas a ciegas, quiero
 </div>
 <br>
 
+## Dry leaf (Alexandre Koberidze, 2025)
+
+<span style="font-variant: small-caps;">Nico Castañeda</span><br>
+
+<img src="{{ '/assets/images/2026-20-04/02-dry leaf-01.jpg' | relative_url }}" 
+     alt="Sorda (2025)" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<span style="font-variant: small-caps;">Dry leaf (2025). Dir. Alexandre Koberidze. Largometraje ficción. 186 min. Digital. Color. [Trailer](https://www.youtube.com/watch?v=YHCMQ2ynrAI)</span><br>
+
+*Dry Leaf*, en español «Hoja Seca», del director georgiano Alexandre Koberidze, es una obra que sin duda se puede denominar como una película artesanal y que va a contracorriente a la producción cinematográfica actual. Rodada con recursos mínimos y una imagen estéticamente de baja resolución (posiblemente grabada en una cámara digital primigenia) que se aleja de los estándares comerciales, la película es prácticamente un proyecto familiar: el director asume casi todas las funciones, su padre David protagoniza el relato y su hermano Giorgi aporta la música y el sonido.
+
+La trama sigue a Irakli, un profesor que decide buscar a su hija Lisa, una fotógrafa deportiva de 28 años que ha desaparecido dejando solo una carta pidiendo que no la sigan. Irakli emprende el viaje acompañado por Levani, el mejor amigo de Lisa, quien tiene una particularidad bastante insólita: es una persona invisible. Se lo escucha, pero no se lo ve; visualmente se oculta, aunque sonoramente está presente constantemente y dialoga con el protagonista. Detalle no menor que sumado a los singulares encuadres de la cámara, van colocando sutilmente a lo largo de las tres horas de narrativa la pregunta sobre el ¿qué se ve? ¿qué se oculta? (sea de forma consciente o inconsciente).
+ 
+Por razones de la misma lógica formal de contar una historia, por muy detallada o mínima que sea esta narración, se deben resaltar detalles, momentos, personajes o sensaciones y ocultar otros. Koberidze juega delicadamente con esta dualidad (se ocultan cuerpos como el ya mencionado Levani), para dar protagonismo a personajes incidentales de los pueblos que ambos personajes recorren de la Georgia rural pulcramente retratados en esta *roadmovie lo-fi*. Cabe mencionar que dichos personajes son los habitantes de aquellos pueblos, no son actores. Koberidze disuelve también la línea entre ficción y documental en dicho mecanismo.
+ 
+Quizás al ojo domesticado por el algoritmo de los reels de redes sociales puedan pasar invisiblemente desapercibidos los mecanismos en los cuales opera una película como esta. Quienes están al margen de la producción audiovisual —ya sea por decisión propia o no—, al navegar por las sutilezas y límites del lenguaje, de lo visible e invisible, pueden encontrar  en aquel cuestionamiento un nuevo impulso y adentrarse a nuevos territorios, a nuevas sensaciones. Operar al margen y más allá de este: ¿dónde queda el cine? ¿hasta dónde llega el cine? Aventurarse como en un juego de niños. Para ver, cierra los ojos. La imaginación extendiéndose a otras imágenes, otras mentes, a nuevos lenguajes, a nuevos mundos. Mundos que extrañamente parecen ya conocidos: un pueblo en medio del valle, una montaña, una cancha de fútbol, una película que parece más *déjà vu* de infancia que una obra del hoy en día. En la calma y la quietud del tiempo, aparece lo invisible.
+
+<img src="{{ '/assets/images/2026-20-04/02-dry leaf-02.jpg' | relative_url }}" 
+     alt="Sorda (2025)" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<p style="text-align: right;">
+  <em><strong>Nico Castañeda</strong></em> es un fantasma digital.
+</p>
+
+<br>
 
 ## Sorda (Eva Libertad, 2025)
 <span style="font-variant: small-caps;">Camila Rioseco</span><br>
