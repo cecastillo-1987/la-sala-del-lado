@@ -27,8 +27,10 @@ Ahora que partimos con la publicación de esta cadena de cartas a ciegas, quiero
 
 En el siguiente listado pueden encontrar las intervenciones en el orden que tuvieron lugar, que iremos actualizando progresivamente: 
 
-* [Dry leaf (Alexandre Koberidze, 2025) por Nico Castañeda](#dry-leaf-alexandre-koberidze-2025)
 * [Sorda (Eva Libertad, 2025) por Camila Rioseco](#sorda-eva-libertad-2025)
+
+* [Dry leaf (Alexandre Koberidze, 2025) por Nico Castañeda](#dry-leaf-alexandre-koberidze-2025)
+
 * [2000 metros hasta Andriivka (Mstyslav Chernov, 2025) por César Castillo](#2000-metros-hasta-andriivka-mstyslav-chernov-2025)
 
 <p style="text-align: right;">
