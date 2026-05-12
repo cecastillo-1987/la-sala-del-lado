@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un exquisito y fílmico cadáver 2025"
-date: 2026-04-26
+date: 2026-05-05
 description: "Un ejercicio de asociación libre cinéfila que agrupo recomendaciones de películas estrenadas o vistas el 2025 en el formato de un cadáver exquisito."
 categories: [cadáver]
 tags: [películas del 2025]
@@ -33,11 +33,45 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
 
 * [2000 metros hasta Andriivka (Mstyslav Chernov, 2025) por César Castillo](#2000-metros-hasta-andriivka-mstyslav-chernov-2025)
 
+* [Dracula (Radu Jude, 2025) por Nicolás J. Vogt](#dracula-radu-jude-2025)
+
 <p style="text-align: right;">
   <em>El editor</em>
 </p>
 
 </div>
+<br>
+
+
+## Dracula (Radu Jude, 2025)
+
+<span style="font-variant: small-caps;">Nicolás J. Vogt</span><br>
+
+<img src="{{ '/assets/images/2026-20-04/04-Dracula-01.jpg' | relative_url }}" 
+     alt="Dracula" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<span style="font-variant: small-caps;">Dracula (2025). Dir. Radu Jude. Largometraje ficción. Digital. 170 minutos. Color [Trailer](https://youtu.be/qoLmJZ9suAk)</span>
+<br>
+
+En un panorama en donde las películas más vistas en Chile durante 2025 fueron remakes —como *Lilo & Stitch* (Dean Fleischer, 2025) o *How to Train your Dragon* (Dean DeBlois, 2025)— o secuelas movilizadas por la nostalgia —como *Freakier Friday* (Nisha Ganatra, 2025) o *Final Destination: Bloodlines* (Zach Lipovsky y Adam Stein, 2025)— resulta inevitable pensar en cómo ciertas imágenes parecieran depredarnos. En lugar de contar con una oferta comercial que priorice autorías nuevas o vueltas de tuerca a géneros ya conocidos, resulta fácil pensar que voluntariamente nos sometemos a relatos que ya conocemos, con imágenes ligeramente distintas, pero cuyo núcleo no es más que un refrito de algo que ya conocemos; el cadáver adornado de un cuerpo argumental que en algún momento nos brindó felicidad.
+ 
+Tomemos como ejemplo a Drácula, un personaje que tras cobrar vida por medio del texto original de Bram Stoker, ha sido famosamente adaptado al cine por autores tan versátiles —e hijos de su tiempo— como el alemán F.W. Murnau, el estadounidense Francis Ford Coppola, e incluso el chileno Hernán Castellano. No deja de ser curioso que a lo largo de 2025 contamos con múltiples reinterpretaciones del mito: *Nosferatu* (2024), de Robert Eggers; *Dracula: A Love Tale* (2025), de Luc Besson; o *The Death of Dracula* (2025), una película coral dirigida por un grupo de cineastas rumanos. Sin embargo, solo una de ellas ahonda en las cualidades «chupasangre» que permean a los nuevos relatos del clásico personaje: *Dracula* (2025), de Radu Jude.
+ 
+Su escena inicial es tanto una broma básica como una declaración de principios: decenas de gráficas realizadas con inteligencia artificial inundan la pantalla en *loop*, mientras personajes que remiten a Drácula —pero que no terminan de asemejarse del todo a su figura— declaran ante la cámara «*soy Vlad, el Empalador, y todos pueden chuparme el pico*», o algo por el estilo. Cuando el ciclo de chistes fálicos hechos con IA bordea el hartazgo, conocemos el personaje que nos guiará en esta historia: un cineasta que le pide ayuda a la IA a desarrollar distintas alternativas narrativas en torno al mito vampírico, las cuales se desarrollan frente a nuestros ojos a lo largo de casi tres horas.
+ 
+Desde el encanto de cómicos efectos prácticos hasta la repulsión que generan las imágenes desarrolladas de manera automática, *Dracula* utiliza un tono satírico para denunciar —a su ritmo y a su pinta— el triste estado de la cartelera mundial: refritos narrativos, autorías anuladas por herramientas digitales, y leyendas antiguas que emergen como posibles esperanzas.
+ 
+Los tintes terroríficos que podrían fluir en torno a la figura de Drácula emergen desde una artista atípica: la realización misma del largometraje. El sentido generativo de los motores de IA no hace más que regurgitar un cadáver gráfico tras devorar cientos de piezas visuales de carácter original, por lo que no es gratuito el enfoque del rumano Radu Jude; quién mejor para cuestionar el mito más popular de su tierra en una época de arte chupasangre. ¿Serán los verdaderos monstruos los gifs que generamos en el camino?
+
+<img src="{{ '/assets/images/2026-20-04/04-Dracula-02.jpg' | relative_url }}" 
+     alt="Dracula" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<p style="text-align: right;">
+  <em><strong>Nicolás J. Vogt</strong></em> es periodista, programador y cineclubista. 
+</p>
+
 <br>
 
 
