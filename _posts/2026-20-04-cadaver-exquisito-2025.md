@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un exquisito y fílmico cadáver 2025"
-date: 2026-05-05
+date: 2026-05-18
 description: "Un ejercicio de asociación libre cinéfila que agrupo recomendaciones de películas estrenadas o vistas el 2025 en el formato de un cadáver exquisito."
 categories: [cadáver]
 tags: [películas del 2025]
@@ -35,11 +35,45 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
 
 * [Dracula (Radu Jude, 2025) por Nicolás J. Vogt](#dracula-radu-jude-2025)
 
+* [Valor sentimental (Joachim Trier, 2025) por Marisol Aguila Bettancourt](#valor-sentimental-joachim-trier-2025)
+
 <p style="text-align: right;">
   <em>El editor</em>
 </p>
 
 </div>
+<br>
+
+## Valor sentimental (Joachim Trier, 2025) 
+
+<span style="font-variant: small-caps;">Marisol Aguila Bettancourt</span><br>
+
+<img src="{{ '/assets/images/2026-20-04/05-Sentimental-Value-04.jpg' | relative_url }}" 
+     alt="Sentimental Value" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<span style="font-variant: small-caps;">Sentimental value (2025). Dir. Joachim Trier. Largometraje de ficción. 35 mm. 129 minutos. [Trailer](https://www.youtube.com/watch?v=lKbcKQN5Yrw)</span>
+<br>
+
+Un exitoso director de cine nórdico, Gustav Borg, que ha estado ausente de la crianza de sus hijas, porque priorizó sus películas antes que la vida familiar, vuelve a presentarse en sus vidas cuando aquellas ya son adultas. Su objetivo es ofrecerle un papel en su próxima película a la que es actriz , que sufre de  crisis de pánico antes de salir a escena en el teatro y ha padecido intentos suicidas, como expresión de conflictos no resueltos y del abandono durante su niñez. 
+
+*Sentimental value* de Joachim Trier —ganadora del *Gran premio del jurado* en Cannes, el *Globo de Oro* a Mejor Actor de Reparto para Stellan Skarsgård y una de las seleccionadas en los Óscar como Mejor Película Internacional por Noruega—, representa un cine de los afectos profundo y sensible con perfiles psicológicos ampliamente desarrollados (en contraste con la retórica de la crueldad de *Sirat* de Oliver Laxe, que compitió en la misma sección).
+
+Nora se resiste al ofrecimiento de su padre de interpretar el papel que ha escrito especialmente para ella, incapaz de confrontarlo en su cariz autoritario y controlador. En una relación de poder no resuelta que continúa como una herida abierta, ella irá descubriendo el valor sentimental que subyace al complejo vínculo entre ambos, a partir de los recuerdos y vivencias de la casa familiar, que se convierte en un personaje más de este acontecido linaje. 
+
+En esa casa creció el padre y fue el lugar donde perdió a su madre de forma traumática y desgarradora, final que teme se repita con su hija víctima de una depresión. Ahí también se criaron las hijas, y allí Nora de niña descubrió cómo escuchar las conversaciones de los adultos a través de los ductos de la estufa. Y será también la locación cargada de recuerdos y vivencias de la película dirigida por el padre, que se transforma en una constelación familiar que reordena los traumas ancestrales. 
+
+En sus dolores y dificultad de relacionarse, Nora es apoyada cariñosamente por su hermana menor, Agnes —quien ha llevado una «vida normal» y ha formado una familia—, que ante la reflexión de la vapuleada actriz sobre las diferencias de salud mental entre ambas habiendo tenido la misma crianza, le responde que, en cambio, ella tuvo la suerte de tener una hermana mayor que la sostuvo emocionalmente.
+
+
+<img src="{{ '/assets/images/2026-20-04/05-Sentimental-Value-01.jpg' | relative_url }}" 
+     alt="Sentimental Value" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<p style="text-align: right;">
+  <em><strong>Marisol Aguila Bettancourt</strong></em> es periodista, crítica de cine, programadora y mediadora. El énfasis de su trabajo se sitúa en cine latinoamericano, de mujeres y derechos humanos. 
+</p>
+
 <br>
 
 
@@ -51,7 +85,7 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
      alt="Dracula" 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
-<span style="font-variant: small-caps;">Dracula (2025). Dir. Radu Jude. Largometraje ficción. Digital. 170 minutos. Color [Trailer](https://youtu.be/qoLmJZ9suAk)</span>
+<span style="font-variant: small-caps;">Dracula (2025). Dir. Radu Jude. Largometraje ficción. Digital. 170 minutos. Color. [Trailer](https://youtu.be/qoLmJZ9suAk)</span>
 <br>
 
 En un panorama en donde las películas más vistas en Chile durante 2025 fueron remakes —como *Lilo & Stitch* (Dean Fleischer, 2025) o *How to Train your Dragon* (Dean DeBlois, 2025)— o secuelas movilizadas por la nostalgia —como *Freakier Friday* (Nisha Ganatra, 2025) o *Final Destination: Bloodlines* (Zach Lipovsky y Adam Stein, 2025)— resulta inevitable pensar en cómo ciertas imágenes parecieran depredarnos. En lugar de contar con una oferta comercial que priorice autorías nuevas o vueltas de tuerca a géneros ya conocidos, resulta fácil pensar que voluntariamente nos sometemos a relatos que ya conocemos, con imágenes ligeramente distintas, pero cuyo núcleo no es más que un refrito de algo que ya conocemos; el cadáver adornado de un cuerpo argumental que en algún momento nos brindó felicidad.
