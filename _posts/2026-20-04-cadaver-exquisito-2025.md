@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un exquisito y fílmico cadáver 2025"
-date: 2026-05-18
+date: 2026-05-26
 description: "Un ejercicio de asociación libre cinéfila que agrupo recomendaciones de películas estrenadas o vistas el 2025 en el formato de un cadáver exquisito."
 categories: [cadáver]
 tags: [películas del 2025]
@@ -37,12 +37,54 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
 
 * [Valor sentimental (Joachim Trier, 2025) por Marisol Aguila Bettancourt](#valor-sentimental-joachim-trier-2025)
 
+* [Pon tu alma en tu mano y camina (Sepideh Farsi, 2025) por Alejandro Torres Contreras](#pon-tu-alma-en-tu-mano-y-camina-sepideh-farsi-2025)
+
 <p style="text-align: right;">
   <em>El editor</em>
 </p>
 
 </div>
 <br>
+
+## Pon tu alma en tu mano y camina (Sepideh Farsi, 2025) 
+
+<span style="font-variant: small-caps;">Alejandro Torres C.</span><br>
+
+<img src="{{ '/assets/images/2026-20-04/06-Put your soul-04.jpg' | relative_url }}" 
+     alt="Put your soul" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<span style="font-variant: small-caps;">Put Your Soul on Your Hand and Walk (2025). Dir. Sepideh Farsi. Largometraje documental. Digital. 113 minutos. [Trailer](https://www.youtube.com/watch?v=96Eco0kWHK8)</span>
+<br>
+
+*«Sólo tenemos nuestra casa y nuestra vida (…) y nuestra casa puede contenernos y protegernos (…)», «No importa lo que suframos (…) seguiremos riendo y viviendo, les guste o no.»*
+
+Estos fragmentos forman parte de los diálogos que articulan el documental *Put Your Soul on Your Hand and Walk* (2025) dirigido por Sepideh Farsi, cineasta iraní radicada en Francia. La película se construye a partir de una conversación sostenida durante un año, vía videollamadas, con la joven fotógrafa palestina Fátima Hassouna.
+
+Ante la imposibilidad de ingresar a la ciudad de Gaza sitiada por el ejército israelí, Sepideh Farsi viaja a El Cairo para recoger testimonios de refugiados palestinos. A través de ellos entra en contacto con Fátima (Fatem) Hassouna, quien había adquirido cierta notoriedad en redes sociales por documentar la vida cotidiana en Gaza bajo el asedio.
+
+En estas videollamadas, breves y fragmentarias, se va revelando una presencia luminosa en el reducido marco de la pantalla de un celular. Fatem sonríe con calidez, canta, lee sus textos, comparte sus fotografías. Su palabra es poética, pero nunca ingenua. En cada conversación nos introduce en su vida y en las condiciones extremas de la ocupación: conocemos a su familia, la timidez de su hermano menor, la amabilidad de su padre, los niños de la casa. Nos muestra el exterior tras la ventana, describiendo calles y barrios allí donde sólo vemos escombros.
+
+Del otro lado de la pantalla, Farsi habla desde habitaciones de hoteles o desde su departamento en París mientras alguno de sus gatos atraviesa el encuadre. *«¿Dónde estás esta vez?»*, pregunta Fatem. *«Me gustaría ir a Roma y visitar los museos»*, dice la joven. *«Iremos juntas, cuando termine esta guerra»*, responde la directora.
+
+Pero tras cada llamada, la tragedia irrumpe nuevamente. El lazo entre ambas se fortalece y también el vínculo del espectador con esta amistad en ciernes. Fatem narra el desabastecimiento y la hambruna; su rostro, cada vez más delgado, parece desaparecer tras la señal entrecortada y el hambre.
+
+Entre sonidos de bombardeos, la directora iraní le pregunta: *«¿Qué le ocurre a tu hiyab?»*. Y el pelo de Fatem se asoma apenas entre los glitcheos de la imagen. Y vuelve a sonreír, y por un instante, la vida regresa, milagrosa.
+
+La última conversación tiene lugar en la casa familiar del barrio Al-Tuffah, al norte de Gaza: lugar testigo de tanta vida y de tantas tragedias. En esa videollamada final, Farsi le comunica que el documental ha sido seleccionado en el Festival de Cannes. Fatem sonríe una vez más; está feliz. Ambas comentan el riesgo que implica esta nueva exposición. Si logro salir, dice la joven, *«quiero ir a un parque de diversiones y experimentar, aunque sea por un momento, la sensación de una vida normal»*. Sin embargo, comenta, debe volver: resistir junto a su gente y reconstruir Gaza cuando todo termine.
+
+Esa noche, Fátima Hassouna y gran parte de su familia mueren tras el impacto directo de un misil israelí sobre su casa, bajo la excusa de que un miliciano de Hamás se ocultaba en la vivienda.
+
+<img src="{{ '/assets/images/2026-20-04/06-Put your soul-02.jpg' | relative_url }}" 
+     alt="Put your soul" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<p style="text-align: right;">
+  <em><strong>Alejandro Torres Contreras</strong></em> es cineasta e investigador sobre cine y audiovisual. 
+</p>
+
+<br>
+
 
 ## Valor sentimental (Joachim Trier, 2025) 
 
