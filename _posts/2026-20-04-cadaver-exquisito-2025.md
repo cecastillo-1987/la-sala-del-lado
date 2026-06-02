@@ -39,11 +39,53 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
 
 * [Pon tu alma en tu mano y camina (Sepideh Farsi, 2025) por Alejandro Torres Contreras](#pon-tu-alma-en-tu-mano-y-camina-sepideh-farsi-2025)
 
+* [Carta a Guni (Diego Acosta, 2025) por Viktor Luna](#carta-a-guni-diego-acosta-2025)
+
 <p style="text-align: right;">
   <em>El editor</em>
 </p>
 
 </div>
+<br>
+
+## Carta a Guni (Diego Acosta, 2025) 
+
+<span style="font-variant: small-caps;">Viktor Luna</span><br>
+
+<img src="{{ '/assets/images/2026-20-04/07-Carta a Guni-03.jpg' | relative_url }}" 
+     alt="Carta a Guni" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<span style="font-variant: small-caps;">Carta a Guni (2025). Dir. Diego Acosta. Cortometraje híbrido no ficción. 16mm. 23 minutos. [Fragmento.](https://vimeo.com/1115499404)</span>
+<br>
+
+*«Querida Guni:*<br>
+<div style="margin-left: 2em; font-style: italic;">
+Guncita, Gungún, Guarén, Gi, Perita de Agua, Carmencha, Camo, Bárbara, mi Guni Pirque. Le escribo después de una siesta de varios años, sesenta, para ser preciso.»</div>
+<br>
+
+La ausencia es un territorio donde el tiempo se modifica. Juan Emar despierta y escribe; la carta es su manera de volver.
+
+La película revive a Juan Emar, escritor inclasificable de la literatura chilena. Para ser honesto no conocía su obra antes de este encuentro y esa ignorancia inicial fue parte del encanto: escuchar sus textos, verlos encarnados en imágenes, permitió que la película funcionara como descubrimiento y traducción simultánea.
+
+Rodada en 16mm, la película respira con una textura táctil. La imagen tiene grano, espesor, memoria. El paisaje se vuelve estado mental. Un fuego aparece intermitente y atraviesa la pantalla como si quemara la emulsión misma, desplazándose con autonomía, recordándonos que estamos ante un gesto material y no solo narrativo. Hay experimentación en los encuadres, juegos de luz que parecen convocar presencias invisibles, y una insistencia en el campo chileno como territorio mítico donde lo cotidiano y lo fantástico conviven sin jerarquías.
+
+La correspondencia aquí no es un intercambio, es un monólogo amoroso lanzado al vacío. Sin embargo, como espectadores, ocupamos el lugar de esa destinataria ausente. Leemos una carta que no nos pertenece y, aun así, somos convocados a sostenerla. La ausencia de Guni activa nuestra presencia. La carta, entonces, no sólo comunica: crea comunidad en torno a lo que falta.
+
+El propio director se deja ver en pantalla, con un humor sutil y una conciencia clara de su artificio. No es una adaptación solemne, sino un diálogo afectuoso con el fantasma de Juan Emar. Se percibe un esfuerzo deliberado por mantener vigente una escritura que no circula masivamente, por devolverle temperatura y actualidad. La película no ilustra los textos: los invoca.
+
+A diferencia de su anterior película, *Al amparo del cielo* (2021), donde el blanco y negro y el silencio construían una distancia más hermética, aquí el director aparece con su humor particular e irónico y con una conciencia clara de su lugar en la tradición que invoca. No es sólo un mediador entre Juan Emar y nosotros; es un interlocutor. Se percibe su autoría, su manera de entender el cine como conversación extendida en el tiempo.
+
+*Carta a Guni* sorprende por su delicadeza y por la coherencia entre forma y pensamiento. Hay una emoción inesperada en escuchar y ver a Juan Emar a través de esta materia vibrante del 16mm, en sentir que su escritura aún respira, aún descoloca, aún hace sonreír. La película no clausura sentidos, los deja suspendidos y abiertos. Al terminar, queda una inquietud persistente, una mezcla de extrañeza y gratitud: la certeza de que el cine todavía es la paciencia del tiempo.
+
+<img src="{{ '/assets/images/2026-20-04/07-Carta a Guni-02.jpg' | relative_url }}" 
+     alt="Carta a Guni" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<p style="text-align: right;">
+  <em><strong>Viktor Luna</strong></em> es un humilde cineasta de la comuna de San Antonio.
+</p>
+
 <br>
 
 ## Pon tu alma en tu mano y camina (Sepideh Farsi, 2025) 
