@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un exquisito y fílmico cadáver 2025"
-date: 2026-05-26
+date: 2026-06-16
 description: "Un ejercicio de asociación libre cinéfila que agrupo recomendaciones de películas estrenadas o vistas el 2025 en el formato de un cadáver exquisito."
 categories: [cadáver]
 tags: [películas del 2025]
@@ -41,11 +41,46 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
 
 * [Carta a Guni (Diego Acosta, 2025) por Viktor Luna](#carta-a-guni-diego-acosta-2025)
 
+* [Yrupẽ (Candela Sotos, 2025) por Nina Satt](#yrupẽ-candela-sotos-2025)
+
 <p style="text-align: right;">
   <em>El editor</em>
 </p>
 
 </div>
+<br>
+
+## Yrupẽ (Candela Sotos, 2025) 
+
+<span style="font-variant: small-caps;">Nina Satt</span><br>
+
+<img src="{{ '/assets/images/2026-20-04/08-Yrupe-01.jpg' | relative_url }}" 
+     alt="Yrupẽ" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<span style="font-variant: small-caps;">Yrupẽ (2025). Dir. Candela Sotos. Largometraje documental. Digital. 79 minutos. [Trailer](https://vimeo.com/1056775545)</span>
+<br>
+
+No entras a una sala de cine esperando ver crecer una Yrupẽ. Guillermo Fernández-Zuñiga, y lo que conocemos de la [colección Zuñiga](https://filmo.platfo.es/pages/container/participant/guillermo-zuniga) dieron lugar a un agenciamiento fotoquímico de un realizador mitad-cineasta mitad-científico. Reconocido por su participación en las misiones pedagógicas de la segunda república española, encontró asilo en Buenos Aires tras el desenlace de la guerra civil. Mitad-exiliado y Mitad-migra empieza a trabajar en los estudios San Miguel reanudando su pulso autoral con dos títulos: *Las Abejas* (1951) y *La Flor de Irupé* (1954). 
+
+La última es el hilo conductor de la película de su sobrinieta Candela Sotos. Atenta a las conjeturas y frente a un archivo perforado por las «pérdidas» (quien se dedica a la preservación fílmica entiende de antemano que las películas reaparecen y lo de pérdida es una categoría inestable), Candela gestiona un estanque y unas semillas de Yrupe. Lo llena de agua. Realiza la operación de siembra. La flor como dispositivo empieza a crecer como si pudiera sostener las preguntas sobre la trayectoria de su tío abuelo. La gestión de los cuidados apertura la memoria de la semilla con su relato amazónico. 
+
+Candela abre un acto comunicativo para hacer dialogar la fascinación depositada de Guillermo con ésta mediante la posibilidad narrativa que la película moviliza. Digo posibilidad narrativa porque la película hila (trenza) diferentes sensibilidades de Guillermo que van más allá del mero dato vincular entre él y el cine. Subjetivaciones como invocaciones que incluso alcanzan la reaparición del título de 1956, catalogada de una forma que impedía el acceso hasta dicho momento.
+
+Película Flor. La Yrupẽ va hilando las diferentes temporalidades de la película. Su anchura crece junto con las implicancias que Candela documenta mientras reside en el Buenos Aires del siglo XXI. Las resonancias del tío Guillermo montadas con las imágenes del estanque, como quien ensaya preguntas en una variante del lenguaje vegetal. Una película que atiende el crecimiento de una flor hackeando en este ejercicio afectivo la ficción lineal del tiempo.
+
+Nunca la preservación fílmica tuvo mejor imagen especular. Y es que entiendo a los soportes fílmicos como memorias colectivas, vulnerables como jardines de nenúfares, en los futuros que nos esperan, y lo digo con especial atención a las negaciones que aguardan para cuando ciertos sectores se hagan con el poder. Sectores que todavía podemos interpelar con los registros que nos anteceden.
+
+Yo iba a ir otro estreno del 2025, la última de Martel. Llegué tarde sin saberlo. Estaba mi amiga Eloísa y logró que su amiga Candela me diera una entrada libre. Cuando salimos de la película dijimos que es una película clave para abrir paso a los estudio en espacios de formación (y de deformación) de conservación y preservación fílmica-fotoquímica. Una película-rito para abrir la pregunta por la potencia del archivo como estanque de temporalidades y relatos.
+
+<img src="{{ '/assets/images/2026-20-04/08-Yrupe-02.jpg' | relative_url }}" 
+     alt="Yrupẽ" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<p style="text-align: right;">
+  <em><strong>Nina Satt</strong></em> es oriunda de Iquique (Chile). Cineasta, Máster en Patrimonio Audiovisual y doctoranda del programa de Investigación de Medios de Comunicación de la Universidad Carlos III de Madrid. Sus investigaciones cruzan acervos patrimoniales, tanto en Chile como en España. Actualmente es parte del proyecto de investigación Caliche, Nitrato: una arqueología del cine pionero chileno (1897 - 1907).
+</p>
+
 <br>
 
 ## Carta a Guni (Diego Acosta, 2025) 
