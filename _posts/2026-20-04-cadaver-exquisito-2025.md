@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un exquisito y fílmico cadáver 2025"
-date: 2026-06-16
+date: 2026-06-23
 description: "Un ejercicio de asociación libre cinéfila que agrupo recomendaciones de películas estrenadas o vistas el 2025 en el formato de un cadáver exquisito."
 categories: [cadáver]
 tags: [películas del 2025]
@@ -43,11 +43,61 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
 
 * [Yrupẽ (Candela Sotos, 2025) por Nina Satt](#yrupẽ-candela-sotos-2025)
 
+* [Fragments for Venus (Alice Diop, 2025) por Lía Alvear](#fragments-for-venus-alice-diop-2025)
+
 <p style="text-align: right;">
   <em>El editor</em>
 </p>
 
 </div>
+<br>
+
+
+## Fragments for Venus (Alice Diop, 2025) 
+
+<span style="font-variant: small-caps;">Lía Alvear</span><br>
+
+<img src="{{ '/assets/images/2026-20-04/09-Fragments-02.jpg' | relative_url }}" 
+     alt="Fragments for Venus" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<span style="font-variant: small-caps;">Fragments for Venus (2025). Dir. Alice Diop. Cortometraje documental. 21 minutos. [Disponible aquí](https://www.youtube.com/watch?v=L78XIBEh9i4).</span>
+<br>
+
+A partir del poema narrativo de Robin Coste Lewis [«*Voyage of the Sable Venus*»](https://www.documenta14.de/en/south/25221_voyage_of_the_sable_venus) (2015) —que toma los títulos, las descripciones de catálogo y las cédulas de exposiciones de piezas de arte occidental donde está presente una figura femenina negra, desde el Paleolítico hasta la actualidad—, la cineasta francesa Alice Diop presenta un cortometraje que pregunta y responde sobre la presencia de la mujer negra.
+
+En la primera parte de *Fragments for Venus*, una joven deambula por las salas de un museo vacío, observando cuidadosamente el craquelado en la piel lechosa de las santas, damas, musas y ninfas retratadas en las pinturas que cuelgan de las paredes. Aunque presume el resultado, escudriña cada cuadro esperando encontrar personas de piel oscura que, por supuesto, encuentra: sirviendo, auxiliando y —por qué no decirlo— decorando el tercer plano de las composiciones.
+
+¿Dónde está la mujer negra retratada por su propia valía y para su propia trascendencia? Aunque en principio uno podría descartar su existencia, un cambio de paradigma y varios esfuerzos arqueológicos han permitido comprender que no, y una voz en off se encarga de plantearlo. La «*Venus de Hohle Fels*», la «*Vénus de Laugerie-Basse*», la «*Venus de Monruz*» y otras diez piezas de arte son enumeradas como «*Thirteen Ways of Looking at a black girl*», un poderoso poema de Morgan Parker que explora las variadas y a menudo contradictorias imágenes, estereotipos y experiencias de la feminidad negra.
+
+Asumir que algo no existe es más peligroso que pensar que está perdido, porque cuando una pieza de arte se ha extraviado (por guerras, robos y otras calamidades), siempre existe la consciencia de que puede ser encontrada. El verdadero abismo aparece cuando decretamos su inexistencia, porque si dejamos de buscar a las mujeres negras en la pintura, la poesía, el cine y toda forma creativa, dejaremos de encontrarlas. La obra de Diop nos recuerda que, en el arte, perdida es una categoría inestable: lo que ayer era una omisión histórica, hoy se revela como una presencia latente que solo aguarda a ser nombrada.
+
+En la segunda parte de *Fragments for Venus*, vemos a distintas mujeres negras habitar las calles de Nueva York, riendo, conversando y ocupando la ciudad con soltura y desenfado. A través de su existencia —afirmó la directora en una entrevista— siente que ella misma existe, describiendo la alegría de filmar esta película como una autocelebración y un gesto de reparación. Para acompañar este regocijo, al cierre, emergen retratos y esculturas de mujeres negras junto con el poema [*A Litany for Survival*](https://www.poetryfoundation.org/poems/147275/a-litany-for-survival) (1978) de la escritora Audre Lorde:
+
+<br>
+*«but when we are silent*<br>
+*we are still afraid*<br>
+
+*So it is better to speak*<br>
+*remembering*<br>
+*we were never meant to survive.»*<br>
+
+
+[*«pero cuando callamos*<br>
+*aún tenemos miedo*<br>
+
+*Entonces es mejor hablar*<br>
+*recordando*<br>
+*que no se suponía que sobreviviéramos.»]*<br>
+<br>
+<img src="{{ '/assets/images/2026-20-04/09-Fragments-03.jpg' | relative_url }}" 
+     alt="Fragments for Venus" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<p style="text-align: right;">
+  <em><strong>Lía Alvear</strong></em> es periodista cultural y público general.
+</p>
+
 <br>
 
 ## Yrupẽ (Candela Sotos, 2025) 
