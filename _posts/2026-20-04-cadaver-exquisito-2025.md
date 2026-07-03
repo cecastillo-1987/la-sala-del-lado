@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un exquisito y fílmico cadáver 2025"
-date: 2026-06-23
+date: 2026-07-03
 description: "Un ejercicio de asociación libre cinéfila que agrupo recomendaciones de películas estrenadas o vistas el 2025 en el formato de un cadáver exquisito."
 categories: [cadáver]
 tags: [películas del 2025]
@@ -25,6 +25,12 @@ Recibimos cerca de 20 inscripciones, que fueron ordenadas al azar. Al principio 
 
 Ahora que partimos con la publicación de esta cadena de cartas a ciegas, quiero agradecer a todas las personas que se animaron a participar. Me ha resultado muy grato recibir los textos y pensar de nuevo lo que vimos el 2025 a través de sus miradas y voces. ¿No es acaso parte fundamental de ir al cine que en un momento las luces se enciendan y podamos confirmar que hay más personas en la sala que también vivieron lo mismo y que pueden, sin embargo, decir otra cosa, decir algo más? El ejercicio siempre será provechoso. 
 
+<p style="text-align: right;">
+  <em>El editor</em>
+</p>
+
+</div>
+
 En el siguiente listado pueden encontrar las intervenciones en el orden que tuvieron lugar, que iremos actualizando progresivamente: 
 
 * [Sorda (Eva Libertad, 2025) por Camila Rioseco](#sorda-eva-libertad-2025)
@@ -45,13 +51,42 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
 
 * [Fragments for Venus (Alice Diop, 2025) por Lía Alvear](#fragments-for-venus-alice-diop-2025)
 
-<p style="text-align: right;">
-  <em>El editor</em>
-</p>
+* [Con Hasan en Gaza (Kamal Aljafari, 2025) por Daniel Miranda](#con-hasan-en-gaza-kamal-aljafari-2025)
 
-</div>
 <br>
 
+## Con Hasan en Gaza (Kamal Aljafari, 2025) 
+
+<span style="font-variant: small-caps;">Daniel Miranda</span><br>
+
+<img src="{{ '/assets/images/2026-20-04/10-Hasan-01.jpg' | relative_url }}" 
+     alt="With Hasan in Gaza" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<span style="font-variant: small-caps;">With Hasan in gaza (2025). Dir. Kamal Aljafari. Largometraje documental. 106 minutos. [Trailer](https://youtu.be/3PBww6bK5wc).</span>
+<br>
+<br>
+
+El documental y la memoria han estado anclados, desde sus inicios, como lenguaje, experiencia cinematográfica y política. En 2024 la directora franco-senegalesa Mati Diop estrenó su último documental, *Dahomey*, que narra el regreso a Benín de 26 artefactos y obras del Reino de Dahomey (1600-1904) que fueron saqueados por Francia. Con un estilo donde la propia obra se convierte en una voz y en un personaje colectivo que observa este viaje, Diop reflexiona sobre lo que significa volver a casa después de tantos años de exilio forzado y cómo el territorio y las nuevas generaciones toman postura frente a la identidad robada.
+ 
+En esa misma línea, el cineasta palestino Kamal Aljafari regresa a su tierra natal, no de manera literal-física, sino a través de la materialidad del archivo. Kamal toma tres cintas de MiniDV con registros que realizó en noviembre de 2001, en medio de la Segunda Intifada. En ellas, Aljafari recorre las calles de Gaza en busca de quien fue su compañero de celda en 1989, cuando ambos eran prisioneros políticos de la ocupación israelí. En este viaje lo acompaña Hasan, un guía que lo lleva en su auto de norte a sur por el pueblo mientras Kamal observa las ruinas, conversa con la gente y reflexiona sobre el desarraigo.
+ 
+La materialidad de un archivo con más de veinte años de antigüedad cobra hoy un valor urgente frente a la tragedia actual en Palestina, específicamente en Gaza. Las imágenes nos sumergen en un duelo constante, mientras observamos en el presente la masacre a través de la frialdad de nuestros dispositivos electrónicos. Estos archivos son cine en su estado más puro: un director que, tras ser testigo del horror, necesita volver a sus viejas cintas para montarlas y buscar respuestas ante tanta crueldad. Allí, la persistencia de lo que se intenta borrar se refugia en las conversaciones cotidianas y en la esperanza de libertad, intentando evitar que la vida diaria sea consumida por la destrucción y el destierro.
+ 
+Aljafari construye esta *road movie* a partir de materiales encontrados, algo que ya ha trabajado como en el documental experimental *A Fidai Film* (2024), en un viaje por fragmentos que evoca la poética de Abbas Kiarostami en su trilogía de Koker —específicamente en *¿Dónde está la casa de mi amigo?* (1987)—, donde la belleza reside en los pequeños trozos de vida que persisten bajo la sombra de las ruinas.
+
+Kamal describió su obra como *«un homenaje a Gaza y a su gente; a todo lo que fue borrado y que volvió a mí en este momento urgente de la existencia —o inexistencia— palestina»*. En última instancia, su cine no es solo un registro del trauma, sino un acto de rescate frente al olvido. Es la prueba de que, aunque el paisaje sea reducido a escombros, la memoria grabada en la cinta permanece intacta, latiendo como un testimonio inexpugnable. Es, en esencia, una película sobre la resistencia cotidiana frente a una ocupación ilegal e impune, que no empezó ni en 2001, ni en 2023, sino que lleva más de cincuenta años.
+
+<img src="{{ '/assets/images/2026-20-04/10-Hasan-03.jpg' | relative_url }}" 
+     alt="With Hasan in Gaza" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<p style="text-align: right;">
+  <em><strong>Daniel Miranda</strong></em> es cineasta-documentalista. Amante de la cerveza, los archivos y la música en vivo.
+
+</p>
+
+<br>
 
 ## Fragments for Venus (Alice Diop, 2025) 
 
@@ -64,11 +99,11 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
 <span style="font-variant: small-caps;">Fragments for Venus (2025). Dir. Alice Diop. Cortometraje documental. 21 minutos. [Disponible aquí](https://www.youtube.com/watch?v=L78XIBEh9i4).</span>
 <br>
 
-A partir del poema narrativo de Robin Coste Lewis [«*Voyage of the Sable Venus*»](https://www.documenta14.de/en/south/25221_voyage_of_the_sable_venus) (2015) —que toma los títulos, las descripciones de catálogo y las cédulas de exposiciones de piezas de arte occidental donde está presente una figura femenina negra, desde el Paleolítico hasta la actualidad—, la cineasta francesa Alice Diop presenta un cortometraje que pregunta y responde sobre la presencia de la mujer negra.
+A partir del poema narrativo de Robin Coste Lewis [*Voyage of the Sable Venus*](https://www.documenta14.de/en/south/25221_voyage_of_the_sable_venus) (2015) —que toma los títulos, las descripciones de catálogo y las cédulas de exposiciones de piezas de arte occidental donde está presente una figura femenina negra, desde el Paleolítico hasta la actualidad—, la cineasta francesa Alice Diop presenta un cortometraje que pregunta y responde sobre la presencia de la mujer negra.
 
 En la primera parte de *Fragments for Venus*, una joven deambula por las salas de un museo vacío, observando cuidadosamente el craquelado en la piel lechosa de las santas, damas, musas y ninfas retratadas en las pinturas que cuelgan de las paredes. Aunque presume el resultado, escudriña cada cuadro esperando encontrar personas de piel oscura que, por supuesto, encuentra: sirviendo, auxiliando y —por qué no decirlo— decorando el tercer plano de las composiciones.
 
-¿Dónde está la mujer negra retratada por su propia valía y para su propia trascendencia? Aunque en principio uno podría descartar su existencia, un cambio de paradigma y varios esfuerzos arqueológicos han permitido comprender que no, y una voz en off se encarga de plantearlo. La «*Venus de Hohle Fels*», la «*Vénus de Laugerie-Basse*», la «*Venus de Monruz*» y otras diez piezas de arte son enumeradas como «*Thirteen Ways of Looking at a black girl*», un poderoso poema de Morgan Parker que explora las variadas y a menudo contradictorias imágenes, estereotipos y experiencias de la feminidad negra.
+¿Dónde está la mujer negra retratada por su propia valía y para su propia trascendencia? Aunque en principio uno podría descartar su existencia, un cambio de paradigma y varios esfuerzos arqueológicos han permitido comprender que no, y una voz en off se encarga de plantearlo. La Venus de Hohle Fels, la Vénus de Laugerie-Basse, la Venus de Monruz y otras diez piezas de arte son enumeradas como *Thirteen Ways of Looking at a black girl*, un poderoso poema de Morgan Parker que explora las variadas y a menudo contradictorias imágenes, estereotipos y experiencias de la feminidad negra.
 
 Asumir que algo no existe es más peligroso que pensar que está perdido, porque cuando una pieza de arte se ha extraviado (por guerras, robos y otras calamidades), siempre existe la consciencia de que puede ser encontrada. El verdadero abismo aparece cuando decretamos su inexistencia, porque si dejamos de buscar a las mujeres negras en la pintura, la poesía, el cine y toda forma creativa, dejaremos de encontrarlas. La obra de Diop nos recuerda que, en el arte, perdida es una categoría inestable: lo que ayer era una omisión histórica, hoy se revela como una presencia latente que solo aguarda a ser nombrada.
 

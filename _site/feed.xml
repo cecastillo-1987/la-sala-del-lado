@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-06-23T01:17:19-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">La sala del lado</title><subtitle>Un blog de escritura cinéfila.</subtitle><entry><title type="html">Un exquisito y fílmico cadáver 2025</title><link href="http://localhost:4000/cad%C3%A1ver/2026/06/23/cadaver-exquisito-2025.html" rel="alternate" type="text/html" title="Un exquisito y fílmico cadáver 2025" /><published>2026-06-23T00:00:00-04:00</published><updated>2026-06-23T00:00:00-04:00</updated><id>http://localhost:4000/cad%C3%A1ver/2026/06/23/cadaver-exquisito-2025</id><content type="html" xml:base="http://localhost:4000/cad%C3%A1ver/2026/06/23/cadaver-exquisito-2025.html"><![CDATA[<p><img src="/assets/images/2026-20-04/cadaver-exquisito.jpg" alt="cadaver exquisito" style="width:auto;max-height:463px;display:block;margin:auto;" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-07-03T00:55:25-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">La sala del lado</title><subtitle>Un blog de escritura cinéfila.</subtitle><entry><title type="html">Un exquisito y fílmico cadáver 2025</title><link href="http://localhost:4000/cad%C3%A1ver/2026/07/03/cadaver-exquisito-2025.html" rel="alternate" type="text/html" title="Un exquisito y fílmico cadáver 2025" /><published>2026-07-03T00:00:00-04:00</published><updated>2026-07-03T00:00:00-04:00</updated><id>http://localhost:4000/cad%C3%A1ver/2026/07/03/cadaver-exquisito-2025</id><content type="html" xml:base="http://localhost:4000/cad%C3%A1ver/2026/07/03/cadaver-exquisito-2025.html"><![CDATA[<p><img src="/assets/images/2026-20-04/cadaver-exquisito.jpg" alt="cadaver exquisito" style="width:auto;max-height:463px;display:block;margin:auto;" /></p>
 
 <div class="small" style="font-size: 85%; line-height: 1.4;">
   <p><em><strong>A modo de presentación.</strong></em></p>
@@ -15,43 +15,76 @@
 
   <p>Ahora que partimos con la publicación de esta cadena de cartas a ciegas, quiero agradecer a todas las personas que se animaron a participar. Me ha resultado muy grato recibir los textos y pensar de nuevo lo que vimos el 2025 a través de sus miradas y voces. ¿No es acaso parte fundamental de ir al cine que en un momento las luces se enciendan y podamos confirmar que hay más personas en la sala que también vivieron lo mismo y que pueden, sin embargo, decir otra cosa, decir algo más? El ejercicio siempre será provechoso.</p>
 
-  <p>En el siguiente listado pueden encontrar las intervenciones en el orden que tuvieron lugar, que iremos actualizando progresivamente:</p>
-
-  <ul>
-    <li>
-      <p><a href="#sorda-eva-libertad-2025">Sorda (Eva Libertad, 2025) por Camila Rioseco</a></p>
-    </li>
-    <li>
-      <p><a href="#dry-leaf-alexandre-koberidze-2025">Dry leaf (Alexandre Koberidze, 2025) por Nico Castañeda</a></p>
-    </li>
-    <li>
-      <p><a href="#2000-metros-hasta-andriivka-mstyslav-chernov-2025">2000 metros hasta Andriivka (Mstyslav Chernov, 2025) por César Castillo</a></p>
-    </li>
-    <li>
-      <p><a href="#dracula-radu-jude-2025">Dracula (Radu Jude, 2025) por Nicolás J. Vogt</a></p>
-    </li>
-    <li>
-      <p><a href="#valor-sentimental-joachim-trier-2025">Valor sentimental (Joachim Trier, 2025) por Marisol Aguila Bettancourt</a></p>
-    </li>
-    <li>
-      <p><a href="#pon-tu-alma-en-tu-mano-y-camina-sepideh-farsi-2025">Pon tu alma en tu mano y camina (Sepideh Farsi, 2025) por Alejandro Torres Contreras</a></p>
-    </li>
-    <li>
-      <p><a href="#carta-a-guni-diego-acosta-2025">Carta a Guni (Diego Acosta, 2025) por Viktor Luna</a></p>
-    </li>
-    <li>
-      <p><a href="#yrupẽ-candela-sotos-2025">Yrupẽ (Candela Sotos, 2025) por Nina Satt</a></p>
-    </li>
-    <li>
-      <p><a href="#fragments-for-venus-alice-diop-2025">Fragments for Venus (Alice Diop, 2025) por Lía Alvear</a></p>
-    </li>
-  </ul>
-
   <p style="text-align: right;">
   <em>El editor</em>
 </p>
 
 </div>
+
+<p>En el siguiente listado pueden encontrar las intervenciones en el orden que tuvieron lugar, que iremos actualizando progresivamente:</p>
+
+<ul>
+  <li>
+    <p><a href="#sorda-eva-libertad-2025">Sorda (Eva Libertad, 2025) por Camila Rioseco</a></p>
+  </li>
+  <li>
+    <p><a href="#dry-leaf-alexandre-koberidze-2025">Dry leaf (Alexandre Koberidze, 2025) por Nico Castañeda</a></p>
+  </li>
+  <li>
+    <p><a href="#2000-metros-hasta-andriivka-mstyslav-chernov-2025">2000 metros hasta Andriivka (Mstyslav Chernov, 2025) por César Castillo</a></p>
+  </li>
+  <li>
+    <p><a href="#dracula-radu-jude-2025">Dracula (Radu Jude, 2025) por Nicolás J. Vogt</a></p>
+  </li>
+  <li>
+    <p><a href="#valor-sentimental-joachim-trier-2025">Valor sentimental (Joachim Trier, 2025) por Marisol Aguila Bettancourt</a></p>
+  </li>
+  <li>
+    <p><a href="#pon-tu-alma-en-tu-mano-y-camina-sepideh-farsi-2025">Pon tu alma en tu mano y camina (Sepideh Farsi, 2025) por Alejandro Torres Contreras</a></p>
+  </li>
+  <li>
+    <p><a href="#carta-a-guni-diego-acosta-2025">Carta a Guni (Diego Acosta, 2025) por Viktor Luna</a></p>
+  </li>
+  <li>
+    <p><a href="#yrupẽ-candela-sotos-2025">Yrupẽ (Candela Sotos, 2025) por Nina Satt</a></p>
+  </li>
+  <li>
+    <p><a href="#fragments-for-venus-alice-diop-2025">Fragments for Venus (Alice Diop, 2025) por Lía Alvear</a></p>
+  </li>
+  <li>
+    <p><a href="#con-hasan-en-gaza-kamal-aljafari-2025">Con Hasan en Gaza (Kamal Aljafari, 2025) por Daniel Miranda</a></p>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<h2 id="con-hasan-en-gaza-kamal-aljafari-2025">Con Hasan en Gaza (Kamal Aljafari, 2025)</h2>
+
+<p><span style="font-variant: small-caps;">Daniel Miranda</span><br /></p>
+
+<p><img src="/assets/images/2026-20-04/10-Hasan-01.jpg" alt="With Hasan in Gaza" style="width:auto;max-height:463px;display:block;margin:auto;" /></p>
+
+<p><span style="font-variant: small-caps;">With Hasan in gaza (2025). Dir. Kamal Aljafari. Largometraje documental. 106 minutos. <a href="https://youtu.be/3PBww6bK5wc">Trailer</a>.</span>
+<br />
+<br /></p>
+
+<p>El documental y la memoria han estado anclados, desde sus inicios, como lenguaje, experiencia cinematográfica y política. En 2024 la directora franco-senegalesa Mati Diop estrenó su último documental, <em>Dahomey</em>, que narra el regreso a Benín de 26 artefactos y obras del Reino de Dahomey (1600-1904) que fueron saqueados por Francia. Con un estilo donde la propia obra se convierte en una voz y en un personaje colectivo que observa este viaje, Diop reflexiona sobre lo que significa volver a casa después de tantos años de exilio forzado y cómo el territorio y las nuevas generaciones toman postura frente a la identidad robada.</p>
+
+<p>En esa misma línea, el cineasta palestino Kamal Aljafari regresa a su tierra natal, no de manera literal-física, sino a través de la materialidad del archivo. Kamal toma tres cintas de MiniDV con registros que realizó en noviembre de 2001, en medio de la Segunda Intifada. En ellas, Aljafari recorre las calles de Gaza en busca de quien fue su compañero de celda en 1989, cuando ambos eran prisioneros políticos de la ocupación israelí. En este viaje lo acompaña Hasan, un guía que lo lleva en su auto de norte a sur por el pueblo mientras Kamal observa las ruinas, conversa con la gente y reflexiona sobre el desarraigo.</p>
+
+<p>La materialidad de un archivo con más de veinte años de antigüedad cobra hoy un valor urgente frente a la tragedia actual en Palestina, específicamente en Gaza. Las imágenes nos sumergen en un duelo constante, mientras observamos en el presente la masacre a través de la frialdad de nuestros dispositivos electrónicos. Estos archivos son cine en su estado más puro: un director que, tras ser testigo del horror, necesita volver a sus viejas cintas para montarlas y buscar respuestas ante tanta crueldad. Allí, la persistencia de lo que se intenta borrar se refugia en las conversaciones cotidianas y en la esperanza de libertad, intentando evitar que la vida diaria sea consumida por la destrucción y el destierro.</p>
+
+<p>Aljafari construye esta <em>road movie</em> a partir de materiales encontrados, algo que ya ha trabajado como en el documental experimental <em>A Fidai Film</em> (2024), en un viaje por fragmentos que evoca la poética de Abbas Kiarostami en su trilogía de Koker —específicamente en <em>¿Dónde está la casa de mi amigo?</em> (1987)—, donde la belleza reside en los pequeños trozos de vida que persisten bajo la sombra de las ruinas.</p>
+
+<p>Kamal describió su obra como <em>«un homenaje a Gaza y a su gente; a todo lo que fue borrado y que volvió a mí en este momento urgente de la existencia —o inexistencia— palestina»</em>. En última instancia, su cine no es solo un registro del trauma, sino un acto de rescate frente al olvido. Es la prueba de que, aunque el paisaje sea reducido a escombros, la memoria grabada en la cinta permanece intacta, latiendo como un testimonio inexpugnable. Es, en esencia, una película sobre la resistencia cotidiana frente a una ocupación ilegal e impune, que no empezó ni en 2001, ni en 2023, sino que lleva más de cincuenta años.</p>
+
+<p><img src="/assets/images/2026-20-04/10-Hasan-03.jpg" alt="With Hasan in Gaza" style="width:auto;max-height:463px;display:block;margin:auto;" /></p>
+
+<p style="text-align: right;">
+  <em><strong>Daniel Miranda</strong></em> es cineasta-documentalista. Amante de la cerveza, los archivos y la música en vivo.
+
+</p>
+
 <p><br /></p>
 
 <h2 id="fragments-for-venus-alice-diop-2025">Fragments for Venus (Alice Diop, 2025)</h2>
@@ -63,11 +96,11 @@
 <p><span style="font-variant: small-caps;">Fragments for Venus (2025). Dir. Alice Diop. Cortometraje documental. 21 minutos. <a href="https://www.youtube.com/watch?v=L78XIBEh9i4">Disponible aquí</a>.</span>
 <br /></p>
 
-<p>A partir del poema narrativo de Robin Coste Lewis <a href="https://www.documenta14.de/en/south/25221_voyage_of_the_sable_venus">«<em>Voyage of the Sable Venus</em>»</a> (2015) —que toma los títulos, las descripciones de catálogo y las cédulas de exposiciones de piezas de arte occidental donde está presente una figura femenina negra, desde el Paleolítico hasta la actualidad—, la cineasta francesa Alice Diop presenta un cortometraje que pregunta y responde sobre la presencia de la mujer negra.</p>
+<p>A partir del poema narrativo de Robin Coste Lewis <a href="https://www.documenta14.de/en/south/25221_voyage_of_the_sable_venus"><em>Voyage of the Sable Venus</em></a> (2015) —que toma los títulos, las descripciones de catálogo y las cédulas de exposiciones de piezas de arte occidental donde está presente una figura femenina negra, desde el Paleolítico hasta la actualidad—, la cineasta francesa Alice Diop presenta un cortometraje que pregunta y responde sobre la presencia de la mujer negra.</p>
 
 <p>En la primera parte de <em>Fragments for Venus</em>, una joven deambula por las salas de un museo vacío, observando cuidadosamente el craquelado en la piel lechosa de las santas, damas, musas y ninfas retratadas en las pinturas que cuelgan de las paredes. Aunque presume el resultado, escudriña cada cuadro esperando encontrar personas de piel oscura que, por supuesto, encuentra: sirviendo, auxiliando y —por qué no decirlo— decorando el tercer plano de las composiciones.</p>
 
-<p>¿Dónde está la mujer negra retratada por su propia valía y para su propia trascendencia? Aunque en principio uno podría descartar su existencia, un cambio de paradigma y varios esfuerzos arqueológicos han permitido comprender que no, y una voz en off se encarga de plantearlo. La «<em>Venus de Hohle Fels</em>», la «<em>Vénus de Laugerie-Basse</em>», la «<em>Venus de Monruz</em>» y otras diez piezas de arte son enumeradas como «<em>Thirteen Ways of Looking at a black girl</em>», un poderoso poema de Morgan Parker que explora las variadas y a menudo contradictorias imágenes, estereotipos y experiencias de la feminidad negra.</p>
+<p>¿Dónde está la mujer negra retratada por su propia valía y para su propia trascendencia? Aunque en principio uno podría descartar su existencia, un cambio de paradigma y varios esfuerzos arqueológicos han permitido comprender que no, y una voz en off se encarga de plantearlo. La Venus de Hohle Fels, la Vénus de Laugerie-Basse, la Venus de Monruz y otras diez piezas de arte son enumeradas como <em>Thirteen Ways of Looking at a black girl</em>, un poderoso poema de Morgan Parker que explora las variadas y a menudo contradictorias imágenes, estereotipos y experiencias de la feminidad negra.</p>
 
 <p>Asumir que algo no existe es más peligroso que pensar que está perdido, porque cuando una pieza de arte se ha extraviado (por guerras, robos y otras calamidades), siempre existe la consciencia de que puede ser encontrada. El verdadero abismo aparece cuando decretamos su inexistencia, porque si dejamos de buscar a las mujeres negras en la pintura, la poesía, el cine y toda forma creativa, dejaremos de encontrarlas. La obra de Diop nos recuerda que, en el arte, perdida es una categoría inestable: lo que ayer era una omisión histórica, hoy se revela como una presencia latente que solo aguarda a ser nombrada.</p>
 
