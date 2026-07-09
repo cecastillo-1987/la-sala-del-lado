@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un exquisito y fílmico cadáver 2025"
-date: 2026-07-03
+date: 2026-07-09
 description: "Un ejercicio de asociación libre cinéfila que agrupo recomendaciones de películas estrenadas o vistas el 2025 en el formato de un cadáver exquisito."
 categories: [cadáver]
 tags: [películas del 2025]
@@ -52,6 +52,40 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
 * [Fragments for Venus (Alice Diop, 2025) por Lía Alvear](#fragments-for-venus-alice-diop-2025)
 
 * [Con Hasan en Gaza (Kamal Aljafari, 2025) por Daniel Miranda](#con-hasan-en-gaza-kamal-aljafari-2025)
+
+* [Chainsaw Man: arco de Reze (Tatsuya Yoshihara, 2025) por Valeska Orellana](#chainsaw-man-arco-de-reze-tatsuya-yoshihara-2025)
+
+<br>
+
+## Chainsaw Man: arco de Reze (Tatsuya Yoshihara, 2025) 
+
+<span style="font-variant: small-caps;">Valeska Orellana</span><br>
+
+<img src="{{ '/assets/images/2026-20-04/11-chainsaw-02.jpg' | relative_url }}" 
+     alt="Chainsaw man" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<span style="font-variant: small-caps;">Chainsaw Man - la película: arco de Reze (2025). Dir. Tatsuya Yoshihara. Largometraje de ficción. 100 minutos. [Trailer](https://youtu.be/eRXMdJoXRGQ)</span>
+<br>
+<br>
+
+La vida de los «prescindibles» puede ser registrada para no olvidar su existencia. La forma que adquiere ese registro es múltiple como lo pueden ser los registros en video, en palabras, en ideas, en imágenes dibujadas. En Japón, desde épocas remotas, el dibujo de anime ha permitido ir mostrando, desde sus diversas ficciones que desplazan la transparencia de la realidad, las salidas de la subjetividad frente a la adversidad, la negación de la vida y el odio.
+
+El anime, como manera de ficcionar la vida social, da cuenta de esas transformaciones o desfiguraciones de problemas sociales profundos, muchas veces ignorados por todos, donde hay personas que son «descartables» y que su existencia pende de un hilo por el reconocimiento precario, a veces utilitario, de un otro. Ir y volver a ese motivo original —esas desmentidas, asesinados, abandonos— a través de la animación me parece que son formas de mantener en el lenguaje visual una memoria colectiva de la vida que se niega durante el siglo XX y XXI.
+
+Es así como el arco de Reze de *Chainsaw man* muestra la continuación de la primera temporada televisada de este anime. Seguimos las aventuras de Denji, un joven de 17 años abandonado al hambre y la soledad desde niño en una sociedad que le descarta la posibilidad de reconocimiento de ser humano. Para poder sobrevivir y saldar una deuda familiar, trabaja para la mafia yakuza como cazador de demonios, quienes le tratan de manera abusiva desconociéndole una y otra vez el saldo de la deuda. En alianza con un simpático “perro”-demonio que le hace compañía como apoyo en la cacería (Pochita es el nombre de este demonio «motosierra»), logra avanzar en el compromiso de «pago» a esta mafia, más un día está en riesgo su vida y, debido a la lealtad de su compañero, Pochita pacta entregarle su vida y poderes a Denji para que éste viva cumpliendo los sueños que imaginaba alcanzar.
+
+En la fragilidad psíquica de Denji por su soledad, falta de vínculos significativos humanos y precariedad social, conoce a Makima, mujer misteriosa que le abre la posibilidad de aspirar al deseo de vivir con otros, de acceder a alimentos y «lujos», como vivir en una vivienda y ya no estar a la intemperie. Ella lo recluta, esta vez en una unidad especializada del gobierno de Japón, para luchar contra los demonios, aprovechando el gran poder que Pochita le ha brindado a Denji, ahora apodado como chainsaw man.
+
+En el arco de Reze, tomamos distancia de Makima como objeto de deseo de Denji, y conocemos a Reze, una chica adolescente que rápidamente captura la atención de Denji por su búsqueda de miradas. Al poco andar, entendemos que Reze es una demonio de alto grado que busca eliminar el poder de Pochita en Denji. En su batalla más mortífera, Denji y Reze avanzan en una vinculación de alta intensidad que no desconoce en ellos la formación de una relación humana. No obstante, el fin de esta pelea se inclina por la elección de dejar vivir al enemigo: Reze escapa de la muerte gracias a la inacción de Denji, pues él confía en Reze, la estima como vínculo importante portador de buenos momentos, afectos y por la confianza en que futuramente podrán encontrarla forma de ser amigos.
+
+<img src="{{ '/assets/images/2026-20-04/11-chainsaw-03.jpg' | relative_url }}" 
+     alt="Chainsaw man" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<p style="text-align: right;">
+  <em><strong>Valeska Orellana</strong></em> es fotógrafa.
+</p>
 
 <br>
 
