@@ -53,13 +53,13 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
 
 * [Con Hasan en Gaza (Kamal Aljafari, 2025) por Daniel Miranda](#con-hasan-en-gaza-kamal-aljafari-2025)
 
-* [Chainsaw Man: arco de Reze (Tatsuya Yoshihara, 2025) por Valeska Orellana](#chainsaw-man-arco-de-reze-tatsuya-yoshihara-2025)
+* [Chainsaw Man: arco de Reze (Tatsuya Yoshihara, 2025) por Valeska](#chainsaw-man-arco-de-reze-tatsuya-yoshihara-2025)
 
 <br>
 
 ## Chainsaw Man: arco de Reze (Tatsuya Yoshihara, 2025) 
 
-<span style="font-variant: small-caps;">Valeska Orellana</span><br>
+<span style="font-variant: small-caps;">Valeska</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/11-chainsaw-02.jpg' | relative_url }}" 
      alt="Chainsaw man" 
@@ -84,7 +84,7 @@ En el arco de Reze, tomamos distancia de Makima como objeto de deseo de Denji, y
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
-  <em><strong>Valeska Orellana</strong></em> es fotógrafa.
+  <em><strong>Valeska</strong></em> es fotógrafa.
 </p>
 
 <br>
