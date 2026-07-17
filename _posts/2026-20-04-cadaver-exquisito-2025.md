@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un exquisito y fílmico cadáver 2025"
-date: 2026-07-09
+date: 2026-07-16
 description: "Un ejercicio de asociación libre cinéfila que agrupo recomendaciones de películas estrenadas o vistas el 2025 en el formato de un cadáver exquisito."
 categories: [cadáver]
 tags: [películas del 2025]
@@ -54,6 +54,44 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
 * [Con Hasan en Gaza (Kamal Aljafari, 2025) por Daniel Miranda](#con-hasan-en-gaza-kamal-aljafari-2025)
 
 * [Chainsaw Man: arco de Reze (Tatsuya Yoshihara, 2025) por Valeska](#chainsaw-man-arco-de-reze-tatsuya-yoshihara-2025)
+  
+* [Cartas a mis padres muertos (Ignacio Agüero, 2025) por Ignacia Guzmán](#cartas-a-mis-padres-muertos-ignacio-agüero-2025)
+
+<br>
+
+## Cartas a mis padres muertos (Ignacio Agüero, 2025) 
+
+<span style="font-variant: small-caps;">Ignacia Guzmán</span><br>
+
+<img src="{{ '/assets/images/2026-20-04/12-carta-02.jpg' | relative_url }}" 
+     alt="Cartas" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<span style="font-variant: small-caps;">Cartas a mis padres muertos (2025). Dir. Ignacio Agüero. Largometraje documental. 106 minutos. [Trailer](https://youtu.be/Ei68WevNZ7A).</span>
+<br>
+<br>
+
+Todo relato de vida es una ficción. Pensar ficción y realidad como escisión de una verdad es como pensar en cuerpo y alma como escisión del Ser. Mucha teoría se ha escrito al respecto.
+
+En un plano el director encuadra una nube y dice en off que ahí va su tía y más allá su madre. A veces en la calle me encuentro con animales o con flores a la orilla de las veredas y pienso en mi gato. Veo esas formas, las encuadro en la memoria y pienso en su nombre. En el cotidiano miramos sin saber ni decidir si ese encuadre quedará plasmado en el material sensible de la memoria. En ese juego de espejos se arma el relato ficticio: le otorgamos orden y carga emocional a escenas y secuencias.
+ 
+Entonces veo una nube y digo: mi gato. Veo una flor y digo: mi madre. Veo una de Agüero y digo: una siesta.
+ 
+El director ocupa material de su filmografía anterior para armar ésta, su nueva película. No es que le falte material o que no pueda grabar algunos de esos espacios otra vez, sino que parece querer otorgarle otra narrativa al unirlo a nuevos planos y a otros viejos nuevos planos de «material de archivo», como le dicen los amantes del documento a los vestigios que consideran realidad del pasado. El ejercicio devela algo que Rancière reflexiona en *El espectador emancipado*: que la representatividad es una alteración de los elementos que componen lo representado. Una imagen, como el plano de una película, no habla por sí sola ni tampoco dice una sola cosa, sino que una imagen-movimiento es una composición representativa que, en cuanto captura de un instante efímero, distribuye ciertos elementos de manera fija, pero nunca definitiva. Cuando Agüero toma planos de otras de sus películas y los une a otros nuevos planos, y con su voz calma acompaña la imagen, la película adquiere una nueva cualidad representativa al reordenar esos elementos compositivos que dan lugar, cuerpo y, por lo tanto, existencia al relato ficticio. La ficción no está en la alteración de la realidad que implica mirar una nube y decir que es su madre, sino que está en la posibilidad infinita de las imágenes y las palabras para crear una narración distinta cada vez que alguno de esos elementos cambie de lugar o forma. Es una película eterna o etérea incluso.
+ 
+El resultado es una película representativa de la trama que el director le otorga a su historia de vida a través de la misiva que dirige a sus padres que, aunque muertos como lo indica el título, existen en otras manifestaciones fenomenales. Así, Agüero parece plantear que la existencia es un cruce de hebras de orden caótico hacia la noción de un *sí mismo* que prescinde del yo.
+ 
+«¿Cómo me narro?» A través de todos estos fenómenos y sus infinitas posibilidades de representación.
+
+Una nube cargada de lluvia: ahí voy yo.
+
+<img src="{{ '/assets/images/2026-20-04/12-carta-01.jpg' | relative_url }}" 
+     alt="Cartas" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<p style="text-align: right;">
+  <em><strong>Ignacia Guzmán</strong></em>, obrera.
+</p>
 
 <br>
 
