@@ -57,6 +57,40 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
   
 * [Cartas a mis padres muertos (Ignacio Agüero, 2025) por Ignacia Guzmán](#cartas-a-mis-padres-muertos-ignacio-agüero-2025)
 
+* [El príncipe de Nanawa (Clarisa Navas, 2025) por Joel Poblete](#el-príncipe-de-nanawa-clarisa-navas-2025)
+
+<br>
+
+## El príncipe de Nanawa (Clarisa Navas, 2025) 
+
+<span style="font-variant: small-caps;">Joel Poblete</span><br>
+
+<img src="{{ '/assets/images/2026-20-04/13-principe-01.jpg' | relative_url }}" 
+     alt="Principe" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<span style="font-variant: small-caps;">
+El príncipe de Nanawa (2025). Dir. Clarisa Navas. Largometraje documental. 212 minutos. [Trailer](https://youtu.be/apErqeR1IqU).
+</span>
+<br>
+<br>
+
+Es sabido que algunos de los documentales más memorables surgieron a partir de un hecho fortuito que provocó un cambio de rumbo en el proyecto original, y así ocurrió en este caso, cuando el equipo audiovisual que registraba imágenes cotidianas en la bullente zona fronteriza entre Argentina y Paraguay accede a grabar las opiniones de Ángel, un niño entusiasta y con mucha personalidad. Lo que podía haber sido solo un momento simpático y circunstancial, será el inicio de un duradero lazo entre los realizadores y el pequeño, que se convertirá en su protagonista y a quien visitarán o contactarán virtualmente a lo largo de los años durante alrededor de una década, siendo testigos de su crecimiento y su evolución vital, en un un notable largometraje, que a lo largo de tres horas y media cautiva, sorprende e incluso conmueve. 
+
+De manera casi ineludible, prácticamente todos los comentarios sobre esta película aluden a *Boyhood*, y por supuesto que el premiado film de Linklater es el referente más directo y transversal si se trata de ver crecer en la pantalla a un protagonista en tránsito desde la infancia hasta los inicios de la vida adulta. Pero *El príncipe de Nanawa* consigue ir más allá de eso, y tiene el potencial para calar hondo en la audiencia de manera genuina e intuitiva. Para quienes ya habían visto *Hoy partido a las tres* (2017) y *Las mil y una* (2020), no debería sorprender la sensibilidad, frescura y atención a los detalles que refleja la cámara de la directora Clarisa Navas, pero en esta ocasión al ser directamente un documental el resultado puede ser aún más revelador y significativo. 
+
+Desde la ternura e ingenuidad de las intervenciones grabadas en los primeros años a los inevitables vaivenes emocionales a medida que se acerca a la mayoría de edad, el carismático y espontáneo Ángel Stegmayer es un personaje especial e inolvidable. Aunque intentan mantener siempre un acercamiento profesional a la realidad que están registrando, inevitablemente la directora y su colega Lucas Olivares se encariñan con su protagonista, y su relación no es solo de observadores y observado, sino además entre ellos se establecen lazos, afectos y complicidades, se preocupan e interesan por él. A medida que pasa el tiempo irá creciendo y conociendo más de la vida, y deberá acostumbrarse a una pandemia y a los cambios y circunstancias en su familia y su entorno. 
+
+Creo que todos quienes la vimos en sus funciones de estreno en Chile en FICValdivia, o posteriormente en FIDOCS, no pudimos quedar indiferentes ante este entrañable y humano viaje que tan bien captura y refleja el paso del tiempo. Junto con ser uno de mis documentales preferidos de los últimos años, fue una de las películas que más me conmovió de 2025, y en una temporada donde largometrajes como los de Chloé Zhao y Joachim Trier consiguieron apelar de manera directa a los sentimientos de los espectadores, acá la emoción es capaz de surgir y quedarse con nosotros en los momentos más inesperados.
+
+<img src="{{ '/assets/images/2026-20-04/13-principe-02.jpg' | relative_url }}" 
+     alt="Cartas" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<p style="text-align: right;">
+  <em><strong>Joel Poblete</strong></em> es periodista y crítico de cine, programador en Ñublecine, comenta semanalmente los estrenos de la cartelera en radio Cooperativa.
+</p>
+
 <br>
 
 ## Cartas a mis padres muertos (Ignacio Agüero, 2025) 
