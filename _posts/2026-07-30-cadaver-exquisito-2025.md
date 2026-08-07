@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un exquisito y fílmico cadáver 2025"
-date: 2026-07-30
+date: 2026-08-07
 description: "Un ejercicio de asociación libre cinéfila que agrupo recomendaciones de películas estrenadas o vistas el 2025 en el formato de un cadáver exquisito."
 categories: [cadáver]
 tags: [películas del 2025]
@@ -58,6 +58,44 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
 * [Cartas a mis padres muertos (Ignacio Agüero, 2025) por Ignacia Guzmán](#cartas-a-mis-padres-muertos-ignacio-agüero-2025)
 
 * [El príncipe de Nanawa (Clarisa Navas, 2025) por Joel Poblete](#el-príncipe-de-nanawa-clarisa-navas-2025)
+  
+* [El Agente Secreto (Kleber Mendonça Filho, 2025) por Sergio Bazaes Castillo](#el-agente-secreto-kleber-mendonça-filho-2025)
+
+<br>
+
+## El Agente Secreto (Kleber Mendonça Filho, 2025)
+
+<span style="font-variant: small-caps;">Sergio Bazaes Castillo</span><br>
+
+<img src="{{ '/assets/images/2026-20-04/14-agente-03.jpg' | relative_url }}" 
+     alt="Agente" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<span style="font-variant: small-caps;">
+O agente secreto (2025). Dir. Kleber Mendonça Filho. Largometraje ficción. 158 minutos. [Trailer](https://www.youtube.com/watch?v=YxvymcujX14).
+</span>
+<br>
+<br>
+
+Mi excusa para este texto es seguir hablando de cine latinoamericano. Y *El agente secreto* no fue solamente gozo para la cinefilia, sino un ejercicio de memoria ético y estético. El director Kleber Mendonça Filho ofrece una minuciosa reconstrucción de identidad histórica que, mediante arcos del pasado al presente, demuestra que esta no se compone de bloques rígidos, sino que está en constante transformación.
+
+En una realidad asediada por la violencia cotidiana, la saturación de noticias falsas y relatos que erosionan nuestra historia, esta obra articula una respuesta enraizada en lo local (el sudor, el dolor y el ritmo de Recife), pero con una resonancia humana universal frente a la persecución y la impunidad.
+
+Creo que *El agente secreto* reflexiona sobre sí mismo. Pienso en la escena de las jóvenes del presente que escuchan archivos, testimonios y audios de la persecución política durante la dictadura. Es un trabajo minucioso en defensa de la dignidad humana que fue negada; una reconstrucción desde fragmentos que traza la ruta para no caer en el olvido.
+
+En este engranaje, el cine es protagonista. No me parece gratuito que el abuelo sea proyeccionista. A través suyo, el director nos regala un homenaje al impacto de las historias: el pánico ante *Tiburón*, los gritos en la penumbra de la sala y el cine como espacio colectivo en que los cuerpos se encuentran para compartir un sentir. Así, la proyección funciona como un mecanismo de memoria que se proyecta sobre nosotros.
+
+El agente secreto susurra verdades incómodas: la historia oficial es una ficción. La verdad absoluta no es materialmente accesible; solo tenemos fragmentos de ella e interpretaciones nacidas desde esos vestigios. Como críticos y espectadores, nuestra responsabilidad es no dejar de mirar esos relatos, seguir intentando darles sentido y unir nuestras historias para dar consistencia a nuestra identidad y pertenencia. Frente al terror, solo nos queda la comunidad y la unión para la defensa permanente de los derechos humanos.
+
+
+<img src="{{ '/assets/images/2026-20-04/14-agente-01.jpg' | relative_url }}" 
+     alt="Agente" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<p style="text-align: right;">
+  <em><strong>Sergio Bazaes Castillo</strong></em> es crítico de cine en <a href="https://www.bitacoradecine.cl"><em>Bitácora de Cine</em></a>.
+</p>
+
 
 <br>
 
