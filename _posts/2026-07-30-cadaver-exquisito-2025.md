@@ -2,9 +2,9 @@
 layout: post
 title: "Un exquisito y fílmico cadáver 2025"
 date: 2026-08-20
-description: "Un ejercicio de asociación libre cinéfila que agrupo recomendaciones de películas estrenadas o vistas el 2025 en el formato de un cadáver exquisito."
+description: "Una reseña colectiva de películas de 2025 en formato cadáver exquisito: Sorda, Dracula, Valor sentimental, El Agente Secreto, Cartas a mis padres muertos y otras once, escritas por distintas voces cinéfilas."
 categories: [cadáver]
-tags: [películas del 2025]
+tags: [películas del 2025, reseñas de cine, documentales, cine latinoamericano]
 ---
 <img src="{{ 'assets/images/2026-20-04/cadaver-exquisito.jpg' | relative_url }}" 
      alt="cadaver exquisito" 
@@ -71,7 +71,7 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
 <span style="font-variant: small-caps;">Raúl Camargo</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/15-journe-01.jpg' | relative_url }}" 
-     alt="The day" 
+     alt="La Journée qui s'en vient est flambant neuve (2025). Dir. Jean-Baptiste Mees" 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <span style="font-variant: small-caps;">
@@ -93,7 +93,7 @@ La película no es un grito, sino más bien el susurro de aquellas y aquellos qu
 Y todo ello mediado por café, tostadas, huevos y tocino.
 
 <img src="{{ '/assets/images/2026-20-04/15-journe-03.jpg' | relative_url }}" 
-     alt="The day" 
+     alt="La Journée qui s'en vient est flambant neuve (2025). Dir. Jean-Baptiste Mees" 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
@@ -107,7 +107,7 @@ Y todo ello mediado por café, tostadas, huevos y tocino.
 <span style="font-variant: small-caps;">Sergio Bazaes Castillo</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/14-agente-03.jpg' | relative_url }}" 
-     alt="Agente" 
+     alt="O agente secreto (2025). Dir. Kleber Mendonça Filho" 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <span style="font-variant: small-caps;">
@@ -128,7 +128,7 @@ El agente secreto susurra verdades incómodas: la historia oficial es una ficci�
 
 
 <img src="{{ '/assets/images/2026-20-04/14-agente-01.jpg' | relative_url }}" 
-     alt="Agente" 
+     alt="O agente secreto (2025). Dir. Kleber Mendonça Filho" 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
@@ -143,7 +143,7 @@ El agente secreto susurra verdades incómodas: la historia oficial es una ficci�
 <span style="font-variant: small-caps;">Joel Poblete</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/13-principe-01.jpg' | relative_url }}" 
-     alt="Principe" 
+     alt="El príncipe de Nanawa (2025). Dir. Clarisa Navas. " 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <span style="font-variant: small-caps;">
@@ -161,7 +161,7 @@ Desde la ternura e ingenuidad de las intervenciones grabadas en los primeros añ
 Creo que todos quienes la vimos en sus funciones de estreno en Chile en FICValdivia, o posteriormente en FIDOCS, no pudimos quedar indiferentes ante este entrañable y humano viaje que tan bien captura y refleja el paso del tiempo. Junto con ser uno de mis documentales preferidos de los últimos años, fue una de las películas que más me conmovió de 2025, y en una temporada donde largometrajes como los de Chloé Zhao y Joachim Trier consiguieron apelar de manera directa a los sentimientos de los espectadores, acá la emoción es capaz de surgir y quedarse con nosotros en los momentos más inesperados.
 
 <img src="{{ '/assets/images/2026-20-04/13-principe-02.jpg' | relative_url }}" 
-     alt="Cartas" 
+     alt="El príncipe de Nanawa (2025). Dir. Clarisa Navas. " 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
@@ -175,7 +175,7 @@ Creo que todos quienes la vimos en sus funciones de estreno en Chile en FICValdi
 <span style="font-variant: small-caps;">Ignacia Guzmán</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/12-carta-02.jpg' | relative_url }}" 
-     alt="Cartas" 
+     alt="Cartas a mis padres muertos (2025). Dir. Ignacio Agüero." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <span style="font-variant: small-caps;">Cartas a mis padres muertos (2025). Dir. Ignacio Agüero. Largometraje documental. 106 minutos. [Trailer](https://youtu.be/Ei68WevNZ7A).</span>
@@ -197,7 +197,7 @@ El resultado es una película representativa de la trama que el director le otor
 Una nube cargada de lluvia: ahí voy yo.
 
 <img src="{{ '/assets/images/2026-20-04/12-carta-01.jpg' | relative_url }}" 
-     alt="Cartas" 
+     alt="Cartas a mis padres muertos (2025). Dir. Ignacio Agüero." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
@@ -211,7 +211,7 @@ Una nube cargada de lluvia: ahí voy yo.
 <span style="font-variant: small-caps;">Valeska</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/11-chainsaw-02.jpg' | relative_url }}" 
-     alt="Chainsaw man" 
+     alt="Chainsaw Man - la película: arco de Reze (2025). Dir. Tatsuya Yoshihara." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <span style="font-variant: small-caps;">Chainsaw Man - la película: arco de Reze (2025). Dir. Tatsuya Yoshihara. Largometraje de ficción. 100 minutos. [Trailer](https://youtu.be/eRXMdJoXRGQ)</span>
@@ -229,7 +229,7 @@ En la fragilidad psíquica de Denji por su soledad, falta de vínculos significa
 En el arco de Reze, tomamos distancia de Makima como objeto de deseo de Denji, y conocemos a Reze, una chica adolescente que rápidamente captura la atención de Denji por su búsqueda de miradas. Al poco andar, entendemos que Reze es una demonio de alto grado que busca eliminar el poder de Pochita en Denji. En su batalla más mortífera, Denji y Reze avanzan en una vinculación de alta intensidad que no desconoce en ellos la formación de una relación humana. No obstante, el fin de esta pelea se inclina por la elección de dejar vivir al enemigo: Reze escapa de la muerte gracias a la inacción de Denji, pues él confía en Reze, la estima como vínculo importante portador de buenos momentos, afectos y por la confianza en que futuramente podrán encontrarla forma de ser amigos.
 
 <img src="{{ '/assets/images/2026-20-04/11-chainsaw-03.jpg' | relative_url }}" 
-     alt="Chainsaw man" 
+     alt="Chainsaw Man - la película: arco de Reze (2025). Dir. Tatsuya Yoshihara." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
@@ -243,7 +243,7 @@ En el arco de Reze, tomamos distancia de Makima como objeto de deseo de Denji, y
 <span style="font-variant: small-caps;">Daniel Miranda</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/10-Hasan-01.jpg' | relative_url }}" 
-     alt="With Hasan in Gaza" 
+     alt="With Hasan in gaza (2025). Dir. Kamal Aljafari." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <span style="font-variant: small-caps;">With Hasan in gaza (2025). Dir. Kamal Aljafari. Largometraje documental. 106 minutos. [Trailer](https://youtu.be/3PBww6bK5wc).</span>
@@ -261,7 +261,7 @@ Aljafari construye esta *road movie* a partir de materiales encontrados, algo qu
 Kamal describió su obra como *«un homenaje a Gaza y a su gente; a todo lo que fue borrado y que volvió a mí en este momento urgente de la existencia —o inexistencia— palestina»*. En última instancia, su cine no es solo un registro del trauma, sino un acto de rescate frente al olvido. Es la prueba de que, aunque el paisaje sea reducido a escombros, la memoria grabada en la cinta permanece intacta, latiendo como un testimonio inexpugnable. Es, en esencia, una película sobre la resistencia cotidiana frente a una ocupación ilegal e impune, que no empezó ni en 2001, ni en 2023, sino que lleva más de cincuenta años.
 
 <img src="{{ '/assets/images/2026-20-04/10-Hasan-03.jpg' | relative_url }}" 
-     alt="With Hasan in Gaza" 
+     alt="With Hasan in gaza (2025). Dir. Kamal Aljafari." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
@@ -276,7 +276,7 @@ Kamal describió su obra como *«un homenaje a Gaza y a su gente; a todo lo que 
 <span style="font-variant: small-caps;">Lía Alvear</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/09-Fragments-02.jpg' | relative_url }}" 
-     alt="Fragments for Venus" 
+     alt="Fragments for Venus (2025). Dir. Alice Diop." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <span style="font-variant: small-caps;">Fragments for Venus (2025). Dir. Alice Diop. Cortometraje documental. 21 minutos. [Disponible aquí](https://www.youtube.com/watch?v=L78XIBEh9i4).</span>
@@ -309,7 +309,7 @@ En la segunda parte de *Fragments for Venus*, vemos a distintas mujeres negras h
 *que no se suponía que sobreviviéramos.»]*<br>
 <br>
 <img src="{{ '/assets/images/2026-20-04/09-Fragments-03.jpg' | relative_url }}" 
-     alt="Fragments for Venus" 
+     alt="Fragments for Venus (2025). Dir. Alice Diop." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
@@ -323,7 +323,7 @@ En la segunda parte de *Fragments for Venus*, vemos a distintas mujeres negras h
 <span style="font-variant: small-caps;">Nina Satt</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/08-Yrupe-01.jpg' | relative_url }}" 
-     alt="Yrupẽ" 
+     alt="Yrupẽ (2025). Dir. Candela Sotos." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <span style="font-variant: small-caps;">Yrupẽ (2025). Dir. Candela Sotos. Largometraje documental. Digital. 79 minutos. [Trailer](https://vimeo.com/1056775545)</span>
@@ -342,7 +342,7 @@ Nunca la preservación fílmica tuvo mejor imagen especular. Y es que entiendo a
 Yo iba a ir otro estreno del 2025, la última de Martel. Llegué tarde sin saberlo. Estaba mi amiga Eloísa y logró que su amiga Candela me diera una entrada libre. Cuando salimos de la película dijimos que es una película clave para abrir paso a los estudio en espacios de formación (y de deformación) de conservación y preservación fílmica-fotoquímica. Una película-rito para abrir la pregunta por la potencia del archivo como estanque de temporalidades y relatos.
 
 <img src="{{ '/assets/images/2026-20-04/08-Yrupe-02.jpg' | relative_url }}" 
-     alt="Yrupẽ" 
+     alt="Yrupẽ (2025). Dir. Candela Sotos." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
@@ -356,7 +356,7 @@ Yo iba a ir otro estreno del 2025, la última de Martel. Llegué tarde sin saber
 <span style="font-variant: small-caps;">Viktor Luna</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/07-Carta a Guni-03.jpg' | relative_url }}" 
-     alt="Carta a Guni" 
+     alt="Carta a Guni (2025). Dir. Diego Acosta." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <span style="font-variant: small-caps;">Carta a Guni (2025). Dir. Diego Acosta. Cortometraje híbrido no ficción. 16mm. 23 minutos. [Fragmento.](https://vimeo.com/1115499404)</span>
@@ -382,7 +382,7 @@ A diferencia de su anterior película, *Al amparo del cielo* (2021), donde el bl
 *Carta a Guni* sorprende por su delicadeza y por la coherencia entre forma y pensamiento. Hay una emoción inesperada en escuchar y ver a Juan Emar a través de esta materia vibrante del 16mm, en sentir que su escritura aún respira, aún descoloca, aún hace sonreír. La película no clausura sentidos, los deja suspendidos y abiertos. Al terminar, queda una inquietud persistente, una mezcla de extrañeza y gratitud: la certeza de que el cine todavía es la paciencia del tiempo.
 
 <img src="{{ '/assets/images/2026-20-04/07-Carta a Guni-02.jpg' | relative_url }}" 
-     alt="Carta a Guni" 
+     alt="Carta a Guni (2025). Dir. Diego Acosta." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
@@ -396,7 +396,7 @@ A diferencia de su anterior película, *Al amparo del cielo* (2021), donde el bl
 <span style="font-variant: small-caps;">Alejandro Torres C.</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/06-Put your soul-04.jpg' | relative_url }}" 
-     alt="Put your soul" 
+     alt="Put Your Soul on Your Hand and Walk (2025). Dir. Sepideh Farsi." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <span style="font-variant: small-caps;">Put Your Soul on Your Hand and Walk (2025). Dir. Sepideh Farsi. Largometraje documental. Digital. 113 minutos. [Trailer](https://www.youtube.com/watch?v=96Eco0kWHK8)</span>
@@ -421,7 +421,7 @@ La última conversación tiene lugar en la casa familiar del barrio Al-Tuffah, a
 Esa noche, Fátima Hassouna y gran parte de su familia mueren tras el impacto directo de un misil israelí sobre su casa, bajo la excusa de que un miliciano de Hamás se ocultaba en la vivienda.
 
 <img src="{{ '/assets/images/2026-20-04/06-Put your soul-02.jpg' | relative_url }}" 
-     alt="Put your soul" 
+     alt="Put Your Soul on Your Hand and Walk (2025). Dir. Sepideh Farsi." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
@@ -436,7 +436,7 @@ Esa noche, Fátima Hassouna y gran parte de su familia mueren tras el impacto di
 <span style="font-variant: small-caps;">Marisol Aguila Bettancourt</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/05-Sentimental-Value-04.jpg' | relative_url }}" 
-     alt="Sentimental Value" 
+     alt="Sentimental value (2025). Dir. Joachim Trier." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <span style="font-variant: small-caps;">Sentimental value (2025). Dir. Joachim Trier. Largometraje de ficción. 35 mm. 129 minutos. [Trailer](https://www.youtube.com/watch?v=lKbcKQN5Yrw)</span>
@@ -454,7 +454,7 @@ En sus dolores y dificultad de relacionarse, Nora es apoyada cariñosamente por 
 
 
 <img src="{{ '/assets/images/2026-20-04/05-Sentimental-Value-01.jpg' | relative_url }}" 
-     alt="Sentimental Value" 
+     alt="Sentimental value (2025). Dir. Joachim Trier." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
@@ -469,7 +469,7 @@ En sus dolores y dificultad de relacionarse, Nora es apoyada cariñosamente por 
 <span style="font-variant: small-caps;">Nicolás J. Vogt</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/04-Dracula-01.jpg' | relative_url }}" 
-     alt="Dracula" 
+     alt="Dracula (2025). Dir. Radu Jude." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <span style="font-variant: small-caps;">Dracula (2025). Dir. Radu Jude. Largometraje ficción. Digital. 170 minutos. Color. [Trailer](https://youtu.be/qoLmJZ9suAk)</span>
@@ -486,7 +486,7 @@ Desde el encanto de cómicos efectos prácticos hasta la repulsión que generan 
 Los tintes terroríficos que podrían fluir en torno a la figura de Drácula emergen desde una artista atípica: la realización misma del largometraje. El sentido generativo de los motores de IA no hace más que regurgitar un cadáver gráfico tras devorar cientos de piezas visuales de carácter original, por lo que no es gratuito el enfoque del rumano Radu Jude; quién mejor para cuestionar el mito más popular de su tierra en una época de arte chupasangre. ¿Serán los verdaderos monstruos los gifs que generamos en el camino?
 
 <img src="{{ '/assets/images/2026-20-04/04-Dracula-02.jpg' | relative_url }}" 
-     alt="Dracula" 
+     alt="Dracula (2025). Dir. Radu Jude." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
@@ -501,7 +501,7 @@ Los tintes terroríficos que podrían fluir en torno a la figura de Drácula eme
 <span style="font-variant: small-caps;">César Castillo</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/03-2000-metros-02.jpg' | relative_url }}" 
-     alt="2000 Meters to Andriivka" 
+     alt="2000 Meters to Andriivka (2025). Dir. Mstyslav Chernov." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <span style="font-variant: small-caps;">2000 Meters to Andriivka (2025). Dir. Mstyslav Chernov. Largometraje documental. 108 min. Digital. Color. [Trailer](https://www.youtube.com/watch?v=5BoblarbxXc)</span><br>
@@ -517,7 +517,7 @@ Por ello las palabras que los mismos soldados logran decir mientras hacen el cam
 El director pareciera consciente de este riesgo político y moral en su filme, al tiempo que conoce y juega con el goce inmersivo que lo habita. En la muerte de sus interlocutores, revisitada como un *a posteriori* macabro mientras hablan, encuentra una forma de explotar aún más ese antihistoricismo que las imágenes de este tipo empujan, como anunciando la constante repetición del siglo XX ahora bajo la tristeza de la inmediatez de un horror inatendible.
 
 <img src="{{ '/assets/images/2026-20-04/03-2000-metros-01.jpg' | relative_url }}" 
-     alt="2000 Meters to Andriivka (2025)" 
+     alt="2000 Meters to Andriivka (2025). Dir. Mstyslav Chernov." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
@@ -531,7 +531,7 @@ El director pareciera consciente de este riesgo político y moral en su filme, a
 <span style="font-variant: small-caps;">Nico Castañeda</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/02-dry leaf-01.jpg' | relative_url }}" 
-     alt="Sorda (2025)" 
+     alt="Dry leaf (2025). Dir. Alexandre Koberidze." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <span style="font-variant: small-caps;">Dry leaf (2025). Dir. Alexandre Koberidze. Largometraje ficción. 186 min. Digital. Color. [Trailer](https://www.youtube.com/watch?v=YHCMQ2ynrAI)</span><br>
@@ -545,7 +545,7 @@ Por razones de la misma lógica formal de contar una historia, por muy detallada
 Quizás al ojo domesticado por el algoritmo de los reels de redes sociales puedan pasar invisiblemente desapercibidos los mecanismos en los cuales opera una película como esta. Quienes están al margen de la producción audiovisual —ya sea por decisión propia o no—, al navegar por las sutilezas y límites del lenguaje, de lo visible e invisible, pueden encontrar  en aquel cuestionamiento un nuevo impulso y adentrarse a nuevos territorios, a nuevas sensaciones. Operar al margen y más allá de este: ¿dónde queda el cine? ¿hasta dónde llega el cine? Aventurarse como en un juego de niños. Para ver, cierra los ojos. La imaginación extendiéndose a otras imágenes, otras mentes, a nuevos lenguajes, a nuevos mundos. Mundos que extrañamente parecen ya conocidos: un pueblo en medio del valle, una montaña, una cancha de fútbol, una película que parece más *déjà vu* de infancia que una obra de hoy en día. En la calma y la quietud del tiempo, aparece lo invisible.
 
 <img src="{{ '/assets/images/2026-20-04/02-dry leaf-02.jpg' | relative_url }}" 
-     alt="Sorda (2025)" 
+     alt="Dry leaf (2025). Dir. Alexandre Koberidze." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
@@ -558,7 +558,7 @@ Quizás al ojo domesticado por el algoritmo de los reels de redes sociales pueda
 <span style="font-variant: small-caps;">Camila Rioseco</span><br>
 
 <img src="{{ '/assets/images/2026-20-04/01-Sorda-Eva-Libertad.jpg' | relative_url }}" 
-     alt="Sorda (2025)" 
+     alt="Sorda (2025). Dir. Eva Libertad." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <span style="font-variant: small-caps;">Sorda (2025). Dir. Eva Libertad. Largometraje ficción. 100 min. Digital. Color. [Trailer](https://www.youtube.com/watch?v=llfCP8IduJg)</span><br>
@@ -575,7 +575,7 @@ Héctor es hábil en el cultivo de la tierra y la preparación del alimento; Án
 En las escuelas de cine —antes de la ola feminista chilena del 2018— se decía comúnmente que los departamentos de sonido eran un lugar seguro para que las estudiantes aprendieran el arte y la técnica alejadas de la intensa competitividad de la autoría masculina. Esas estudiantes ya están haciendo sus propios filmes en esta última parte del cine contemporáneo, y gracias a ellas, lo sonoro, lo vocal y lo corporal, han ganado un campo del cual emergen nuevas formas de resistencia política, tanto en el lenguaje fílmico como en lo laboral-social. En *Sorda*, poner atención a los sonidos de los cuerpos que no son palabras, es la mejor forma de comprender a los personajes y el conflicto que enfrentan ante la decisión de conciliar los elementos hegemónicos de lo sensible (la visión y lo oral) a otras mediaciones de lo visual, lo sonoro y lo táctil.
 
 <img src="{{ '/assets/images/2026-20-04/01-Sorda-Eva-Libertad-2.jpg' | relative_url }}" 
-     alt="Sorda (2025)" 
+     alt="Sorda (2025). Dir. Eva Libertad." 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
 <p style="text-align: right;">
