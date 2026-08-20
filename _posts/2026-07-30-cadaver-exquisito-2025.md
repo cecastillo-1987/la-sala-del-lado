@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un exquisito y fílmico cadáver 2025"
-date: 2026-08-07
+date: 2026-08-19
 description: "Un ejercicio de asociación libre cinéfila que agrupo recomendaciones de películas estrenadas o vistas el 2025 en el formato de un cadáver exquisito."
 categories: [cadáver]
 tags: [películas del 2025]
@@ -61,7 +61,46 @@ En el siguiente listado pueden encontrar las intervenciones en el orden que tuvi
   
 * [El Agente Secreto (Kleber Mendonça Filho, 2025) por Sergio Bazaes Castillo](#el-agente-secreto-kleber-mendonça-filho-2025)
 
+* [The day to come is a bright new day (Jean-Baptiste Mees, 2025) por Raúl Camargo](#the-day-to-come-is-a-bright-new-day-jean-baptiste-mees-2025)
+
+
 <br>
+
+## The day to come is a bright new day (Jean-Baptiste Mees, 2025)
+
+<span style="font-variant: small-caps;">Raúl Camargo</span><br>
+
+<img src="{{ '/assets/images/2026-20-04/15-journe-01.jpg' | relative_url }}" 
+     alt="The day" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<span style="font-variant: small-caps;">
+La Journée qui s'en vient est flambant neuve (2025). Dir. Jean-Baptiste Mees. Cortometraje documental.45 minutos. [Trailer](https://youtu.be/HFdQEEqB-eI).
+</span>
+<br>
+<br>
+
+*"Frente al terror, solo nos queda la comunidad y la unión".*
+
+Esa frase, hacia el final del texto que me precede a la hora de escribir este cadáver exquisito, me hizo recordar inmediatamente el visionado de *The day to come is a bright new day*, pequeño y frágil mediometraje francés realizado en Montreal.
+
+Su anécdota es simple, quizás en demasía: filmar un restaurant en donde se sigue sirviendo desayuno a la antigua, es decir de manera generosa y poco dietética, y a partir de allí retratar a quienes se vuelven habitués del lugar. Desde aquella simpleza emergen las pequeñas historias de personas comunes y corrientes que por un momento encuentran un lugar que acoge su soledad, compartiendo compañía, escucha y los destellos de una frágil humanidad que, al igual que el restaurante, se resiste a desaparecer. 
+
+La película no es un grito, sino más bien el susurro de aquellas y aquellos que por distintas razones no tienen cabida o no se sienten parte de este mundo: desde una mujer migrante que no sabe qué ordenar de la carta hasta un tímido hombre acostumbrado a conversar solo consigo mismo; desde una joven que huyó de un régimen teocrático y que ensaya las palabras de su nuevo idioma a una afable mujer sordomuda ya mayor y cuya condición no le impide comunicarse y estrechar lazos con quienes la rodean. 
+
+*The day to come is a bright new day* establece sin mayores aspavientos ni consignas la real posibilidad de encuentro a través de la amabilidad y la no discriminación, con cariño y respeto, con talento y sensibilidad, incluso sumando un explícito homenaje a una de las grandes canciones-protesta chilena.
+
+Y todo ello mediado por café, tostadas, huevos y tocino.
+
+<img src="{{ '/assets/images/2026-20-04/15-journe-03.jpg' | relative_url }}" 
+     alt="The day" 
+     style="width:auto;max-height:463px;display:block;margin:auto;">
+
+<p style="text-align: right;">
+  <em><strong>Raúl Camargo</strong></em> es profesor, programador y probador de completos.
+</p>
+<br>
+
 
 ## El Agente Secreto (Kleber Mendonça Filho, 2025)
 
