@@ -5,23 +5,40 @@ sitemap: false
 /* 1) Si quieres cargar fuentes desde aquí (opcional; prefiero head-custom.html) */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&family=Lato:wght@300;400;700&display=swap');
 
-/* 2) -- OPCIÓN PREFERENTE: sobrescribir variables SASS del tema
-   (estas asignaciones deben ir ANTES del @import; nombres de variables pueden variar) */
+/* 2) -- OPCIÓN PREFERENTE: sobrescribir variables SASS del tema */
 $accent-color: #FDE8CB;
 $body-background-color-light: #DFEED1;
 $text-color-light: #1F3920;
-/* Si el tema tiene variables para fuentes, ponlas aquí. Ejemplo (puede que el nombre sea otro): */
 $base-font: 'Lato', sans-serif;
 $header-font: 'Playfair Display', serif;
 
-/* 3) Importa el resto del tema (obligatorio) */
+/* 3) Importa el resto del tema */
 @import "so-simple";
 
-/* 4) Refuerzos CSS (si el tema usa selectores muy específicos) */
-html, body { font-family: 'Lato', sans-serif !important; color: #DFEED1 !important; background: #1F3920 !important; }
-h1,h2,h3,h4,h5,h6 { font-family: 'Playfair Display', serif !important; }
+/* 4) Refuerzos CSS */
 
-/* Quitar mayúsculas en la navegación (regla genérica — ajustaremos selector si es necesario) */
+/* Texto general: blanco/gris claro para legibilidad */
+html, body { 
+    font-family: 'Lato', sans-serif !important; 
+    color: #FFFFFF !important; 
+    background: #1F3920 !important; 
+}
+
+/* Títulos (h1-h6): amarillo como en portada */
+h1, h2, h3, h4, h5, h6 { 
+    font-family: 'Playfair Display', serif !important; 
+    color: #FDE8CB !important;
+}
+
+/* Títulos específicos de posts (por si acaso hay selectores más específicos) */
+.post-title,
+.entry-title,
+article h1,
+.page-title {
+    color: #FDE8CB !important;
+}
+
+/* Quitar mayúsculas en la navegación */
 nav a,
 .navbar a,
 .navigation a,
@@ -31,17 +48,16 @@ nav a,
   letter-spacing: normal !important;
 }
 
-/* Forzar color/acento en enlaces (si no funciona vía variable) */
+/* Forzar color/acento en enlaces */
 a, .site-header a { color: #FDE8CB !important; }
 
-/* logo conservado en tamaño */
+/* Logo */
 .site-logo img {
   width: auto;
-  height: 300px; /* o el alto que prefieras */
+  height: 300px;
   max-width: 100%;
   object-fit: contain;
   border: none !important;
   box-shadow: none !important;
   background: transparent !important;
 }
-
