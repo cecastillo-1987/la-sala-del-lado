@@ -8,7 +8,7 @@ categories: [cítricas]
 tags: [Ensayos y errores, Ignacio Rojas Vallejo, cine documental, comedia]
 ---
 
-<img src="{{ '/assets/images/ensayos-y-errores-port.jpg' | relative_url }}" 
+<img src="{{ '/assets/images/ensayos-y-errores-1.jpg' | relative_url }}" 
      alt="Ensayos y errores (2024) Ignacio Rojas Vallejo" 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 

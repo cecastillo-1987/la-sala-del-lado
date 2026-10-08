@@ -8,7 +8,7 @@ categories: [cítricas]
 tags: [Si vas para Chile, Amilcar Infante, Sebastián González,documental chileno, cine documental]
 ---
 
-<img src="{{ '/assets/images/2026-12-14 si vas para chile/si-vas-para-chile-1.jpg' | relative_url }}" 
+<img src="{{ '/assets/images/si-vas-para-chile-1.jpg' | relative_url }}" 
      alt="Si vas para Chile (2025)" 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 

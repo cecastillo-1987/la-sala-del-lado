@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un exquisito y fílmico cadáver 2025"
-date: 2026-08-20
+date: 2026-10-01
 description: "Una reseña colectiva de películas de 2025 en formato cadáver exquisito: Sorda, Dracula, Valor sentimental, El Agente Secreto, Cartas a mis padres muertos y otras once, escritas por distintas voces cinéfilas."
 categories: [cadáver]
 tags: [películas del 2025, reseñas de cine, documentales, cine latinoamericano]
