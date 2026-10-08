@@ -6,7 +6,7 @@ description: "Análisis de la escena de la cena en Backrooms (2026), de Kane Par
 categories: [procesiones]
 tags: [Backrooms, kane Parsons, análisis de escena]
 ---
-<img src="{{ 'assets\images\Procesiones\brms-9-canva.jpg' | relative_url }}" 
+<img src="{{ 'assets/images/Procesiones/brms-9-canva.jpg' | relative_url }}" 
      alt="Backrooms (2026) de Kane Parsons" 
      style="width:auto;max-height:463px;display:block;margin:auto;">
 
@@ -27,7 +27,7 @@ tags: [Backrooms, kane Parsons, análisis de escena]
 <hr style="border: 0; border-top: 1px solid rgba(255,255,255,0.35); margin: 2rem 0;">
 </div>
 
-<img src="{{ 'assets\images\Procesiones\brms-1.jpg' | relative_url }}" 
+<img src="{{ 'assets/images/Procesiones/brms-1.jpg' | relative_url }}" 
      alt="Backrooms (2026)" 
      style="width:auto;max-height:463px;display:block;margin: 0 auto 2rem auto;">
 
@@ -47,7 +47,7 @@ Clark está en terapia porque intenta sanar las heridas de un pasado reciente. P
 
 Mary en dicha escena —y desesperada por la situación trastornada— le responde a Clark tras la petición de respuestas y soluciones a su pesar: «¡Tú eres el maldito cerebro idiota!» 
 
-<img src="{{ 'assets\images\Procesiones\brms-2.jpg' | relative_url }}" 
+<img src="{{ 'assets/images/Procesiones/brms-2.jpg' | relative_url }}" 
      alt="Backrooms (2026)" 
     style="width:auto;max-height:463px;display:block;margin: 2rem auto 2rem auto;">
 
@@ -63,7 +63,7 @@ Finalmente, la película nos enfrenta a la idea del gran desconocimiento que exi
 <p style="margin-bottom: 2rem;">
 </p>
 
-<img src="{{ 'assets\images\Procesiones\brms-3.jpg' | relative_url }}" 
+<img src="{{ 'assets/images/Procesiones/brms-3.jpg' | relative_url }}" 
      alt="Backrooms (2026)" 
      style="width:auto;max-height:463px;display:block;margin: 6rem auto 2rem auto;">
 
@@ -81,7 +81,7 @@ Esta escena transcurre en una cocina-comedor, con una forma irregular que pareci
 
 Volviendo a la escena en *Backrooms*, en esa geografía podemos encontrar muebles y electrodomésticos de cocina, como un refrigerador y una mesa con cuatro sillas. Hay, además, una lámpara de pie fusionada a una silla de ruedas. Los personajes presentes son Clark, Mary y cuatro *entidades* que *representan* algo o a alguien para Clark (convengamos que es su psiquismo el que estamos observando). Estas *entidades* tienen una morfología similar a un ser humano pero con añadiduras o restas que les hacen lucir escalofriantes y sumamente ominosas. Uno es una mujer vestida de rojo con el rostro duplicado, presumiblemente representando a la esposa del protagonista. El segundo es un hombre barbudo con seis ojos que está sentado en la mesa con ellos que se mantiene inmóvil (a pesar de que Clark lo violenta y come de él). El tercero es un hombre viejo en silla de ruedas, completamente asimétrico sin piernas, que enciende y apaga la lámpara fusionada a su silla de ruedas. El último es un gigante *Capitán Clark* que es una versión aumentada, pero deforme y explícitamente violenta, de Clark. 
 
-<img src="{{ 'assets\images\Procesiones\brms-4.jpg' | relative_url }}" 
+<img src="{{ 'assets/images/Procesiones/brms-4.jpg' | relative_url }}" 
      alt="Backrooms (2026)" 
      style="width:auto;max-height:463px;display:block;margin: 2rem auto 2rem auto;">
 
@@ -93,8 +93,8 @@ El verdadero horror no es el espacio infinito y la geografía desigual, sino la 
 <p style="margin-bottom: 2rem;">
 </p>
 
-<img src="{{ 'assets\images\Procesiones\brms-5.jpg' | relative_url }}" 
-     alt="Si vas para Chile (2025)" 
+<img src="{{ 'assets/images/Procesiones/brms-5.jpg' | relative_url }}" 
+     alt="Backrooms (2026)" 
      style="width:auto;max-height:463px;display:block;margin: 6rem auto 2rem auto;">
 
 ## Todo lugar que alguna vez existió. 
@@ -108,7 +108,7 @@ Recordar no significa volver al pasado. Aquello que recordamos puede adquirir un
 
 Pero la materialización del recuerdo no equivale a la restitución del pasado. Por exacta que fuese la reproducción de una situación anterior, el acontecimiento original permanece inamovible. No regresa porque entre la experiencia recordada y el presente se interpone el tiempo transcurrido, y durante ese tiempo todo ha cambiado, incluso quien recuerda. Por eso no es posible regresar verdaderamente a una situación pasada. Toda repetición introduce necesariamente una diferencia. Clark puede disponer de las imágenes que el espacio conserva, ordenar los cuerpos y reconstruir la escena, pero no puede hacer que el pasado vuelva a ser presente, porque incluso él ya no es el mismo.
 
-<img src="{{ 'assets\images\Procesiones\brms-6.jpg' | relative_url }}" 
+<img src="{{ 'assets/images/Procesiones/brms-6.jpg' | relative_url }}" 
      alt="Backrooms (2026)" 
      style="width:auto;max-height:463px;display:block;margin: 2rem auto 2rem auto;">
 
@@ -120,7 +120,7 @@ Podemos hacer presente un recuerdo, contemplar sus imágenes y permitir incluso 
 
 Clark no acepta que aquello que ocurrió exista bajo la forma de lo irrevocable, pues no quiere saber de aquello que el recuerdo le devuelve sobre sí mismo. Quizás por eso su deseo, a pesar de la violencia con que intenta realizarlo, nos resulta tan reconocible. ¡Quién no ha querido traer una imagen del pasado al presente para modificarla! Pero lo cierto es que, incluso habitando un *Backroom* que ofrece aquello que la experiencia ordinaria niega, esto es, «las imágenes de todo lugar que alguna vez existió», es imposible devolver el pasado mismo al presente. Por eso, quizás, la amenaza final no procede de Mary, sino de uno de los recuerdos que es parte del mismo Clark y que ha estado rondando, oculto, la escena. ■ 
 
-<img src="{{ 'assets\images\Procesiones\brms-8.jpg' | relative_url }}" 
+<img src="{{ 'assets/images/Procesiones/brms-8.jpg' | relative_url }}" 
      alt="Backrooms (2026)" 
      style="width:auto;max-height:463px;display:block;margin: 2rem auto 2rem auto;">
 <p style="margin-bottom: 6rem;">
