@@ -18,6 +18,7 @@ La invitación a enviar colaboraciones al blog está abierta, como propuesta las
 - **Oblicuas**: entrevistas con trabajadore/as del/sobre el cine cuyo tema central sea una cuestión otra que el cine. 
 - **Voladores**: textos largos y reposados referidos al estado del cine y el campo de las imágenes en general, bajo la condición de no mencionar imágenes ni escenas ni autores. Abstracciones diagnósticas prospectivas que permitan a otros interpretarle como oráculo para abrirse camino. 
 - **Esquivas**: textos cortos sobre películas o sobre el cine en general que integren al texto una condición vital imponderable de la persona escritora. Pueden ser sus obligaciones laborales, las tareas de cuidado que realiza o de las que depende, una contingencia mental o física, una pasión que le consume. Lo importante es que el texto revele y reintegre la conexión entre su experiencia, la escritura cinéfila y las películas.
+- **Destellos**: textos cortos o largos, atrasados o inmediatos, sobre eventos, acontecimientos, experiencias, en torno a lo fílmico. 
 - **Cadaver**: una vez al año abriremos la invitación a participar en un cadaver exquisito en una suerte de anti lista del año.  
 
 ## Equipo y política editorial
