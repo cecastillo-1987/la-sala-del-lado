@@ -132,7 +132,7 @@ Los textos y sus autoras:
 
 - [«No es el espacio infinito y la geografía desigual»](#no-es-el-espacio-infinito-y-la-geografía-desigual) por **Natalia Hurtado**, psicóloga, magíster en Psicología Clínica de Adultos, con un Diplomado en Fotografía y Arte Contemporáneo, Universidad de Chile.
 
-- [«Todo lugar que alguna vez existió»](#todo-lugar-que-alguna-vez-existió) por **Macarena Franzani**
+- [«Todo lugar que alguna vez existió»](#todo-lugar-que-alguna-vez-existió) por **Macarena Franzani**, Historiadora, Magíster en Filosofía por la Universidad Alberto Hurtado y Doctora en Filosofía con mención en Estética y Teoría del Arte por la Universidad de Chile. Su investigación se centra en la relación entre imagen, cuerpo y prácticas religiosas.
 
 <p style="margin-bottom: 12rem;">
 </p>
