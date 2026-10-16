@@ -686,7 +686,7 @@ figure.align-center figcaption { text-align: center; }
 
 /* 4) Refuerzos CSS */
 /* Texto general: blanco/gris claro para legibilidad */
-html, body { font-family: 'Lato', sans-serif !important; color: #FFFFFF !important; background: #1F3920 !important; }
+html, body { font-family: 'Lato', sans-serif !important; color: #FFFFFF !important; background: #1F3920 !important; background-image: url("/assets/images/fondo-nieve.jpg") !important; /* Asegúrate de subir la textura a esta ruta */ background-repeat: no-repeat !important; /* Evita que se formen los cortes */ background-size: cover !important; /* Estira la textura para cubrir siempre el 100% de la pantalla */ background-attachment: fixed !important; /* Mantiene el fondo quieto mientras el usuario hace scroll hacia abajo */ background-blend-mode: multiply !important; }
 
 /* Títulos (h1-h6): amarillo como en portada */
 h1, h2, h3, h4, h5, h6 { font-family: 'Playfair Display', serif !important; color: #FDE8CB !important; }
