@@ -6,6 +6,7 @@ author: cesarcastillo
 description: "Crítica del documental La Búsqueda del otro dirigido por Cons Gallardo."
 categories: [cítricas]
 tags: [La búsqueda del otro, documental, Cons Gallardo]
+published: false
 ---
 <img src="{{ 'assets/images/2026-11-06-la-busqueda-del-otro/la-busqueda-del-otro-2.jpg' | relative_url }}" 
      alt="La búsqueda del otro (2026)"  style="width:auto;max-height:463px;display:block;margin: 0 auto 2rem auto;">
