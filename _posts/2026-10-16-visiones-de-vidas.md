@@ -4,7 +4,7 @@ title: "Visiones de vidas sencillas: Sobre el IV Encuentro de Cine y Documental 
 date: 2026-10-16
 author: cesarcastillo
 description: "Una conversación con el equipo de producción del IV encuentro de cine y documental Se cacha a la Legua, realizado en la población La Legua, Chile, durante junio del 2026."
-categories: [Destellos]
+categories: [destellos]
 tags: [Encuentro, Cine, Documental, Población, Local]
 ---
 <img src="{{ 'assets/images/2026-15-10-visiones-de-vidas/se-cacha-4.jpg' | relative_url }}" 

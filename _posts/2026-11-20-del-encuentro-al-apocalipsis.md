@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "De los encuentros cercanos al apocalipsis lejano: El día de la revelación (2026)"
+title: "De los encuentros cercanos al apocalipsis lejano."
 date: 2026-11-20
 author: andremenard
 description: "Un análisis comparativo entre Encuentros cercanos del tercer tipo (1977) y El día de la revelación (2026) de Steven Spielberg, a la luz de otras películas sobre extraterrestres, las transformaciones sociológicas entre los dos filmes y la inteligencia artificial."
 categories: [destellos]
 tags: [El día de la revelación, Encuentros cercanos del tercer tipo, Steven Spielberg, UFO, OVNI]
-published: false
+published: true
 ---
-<img src="{{ 'assets/images/2026-11-06-la-busqueda-del-otro/la-busqueda-del-otro-2.jpg' | relative_url }}" 
-     alt="La búsqueda del otro (2026)"  style="width:auto;max-height:463px;display:block;margin: 0 auto 2rem auto;">
+<img src="{{ 'assets/images/2026-11-20-del encuentro/encuentros-1.jpg' | relative_url }}" 
+     alt="Encuentros cercanos del tercer tipo (1977)"  style="width:auto;max-height:463px;display:block;margin: 0 auto 2rem auto;">
 
 Convengamos que la última película de Spielberg, *El Día de la Revelación*, no es ni cinematográfica ni sintomatológicamente muy valiosa por sí misma. Más allá del oportunismo mediático (a partir sobre todo de la revelación en 2017 por el *New York Times* de un programa secreto del Pentágono para estudiar los OVNI, seguida de los subsiguientes anuncios desclasificación por la administración Trump), su mayor rendimiento creo que pasa por el juego de transformavciones que opera respecto de su película de 1977, *Encuentros Cercanos del Tercer Tipo*, de la que es una suerte de transformación más o menos simétrica. Si de esta última podemos decir que es un ejemplo de lo que un director cinematográficamente de derecha hace en un contexto histórico de izquierda, de *El día de la Revelación* podemos decir que es lo que el mismo director de derecha hace en un contexto histórico de ultraderecha. Pero comencemos por contrastarlas formalmente. 
 
@@ -18,11 +18,11 @@ En la conclusión de su último volumen de la serie *Mitológicas, El hombre des
 Obviamente ambas películas participan en grados diferentes de estos cuatro polos. En *Encuentros Cercanos*, el mensaje musical logra ser decodificado matemáticamente para identificar unas coordenadas geográficas, mientras en la India ese mismo mensaje se transforma en un mantra místico. En *El Día de la Revelación*, en cambio, esta diversidad de expresiones del sentido inefable del mito extraterrestre se encarna en esa especie de super-coach y super-influencer que los extraterrestres habilitaron en la persona de Margaret Fairchild: la reina de la empatía y la comunicación. Pero esa capacidad de infinita traductibilidad de las lenguas terrestres requiere ya no de los músicos, sino que del matemático para traducir los chasquidos extraterrestres a un lenguaje humano. Situación coherente con un paso de la apuesta humanista y setentera por la música como lenguaje universal, a la actual apuesta estadística como clave de la inteligencia, y no solo de la artificial.
 
 <figure style="margin: 0 auto 2rem auto; text-align: center;">
-  <img src="{{ 'assets/images/2026-15-10-visiones-de-vidas/se-cacha-6.jpg' | relative_url }}"
-       alt="El último anzuelo de Gonzalo Solari"
+  <img src="{{ 'assets/images/2026-11-20-del encuentro/el-dia-1.jpg' | relative_url }}"
+       alt="El día de la revelación (2026)"
        style="width:auto;max-height:463px;display:block;margin: 0 auto;">
   <figcaption style="margin-top: 0.75rem; font-size: 0.9rem; color: #555; line-height: 1.5;">
-    <em>El último anzuelo</em> (2025) de Gonzalo Solari [Fotograma modificado].
+    <em>El día de la revelación</em> (2026) [Fotograma modificado].
   </figcaption>
 </figure>
 
@@ -33,11 +33,11 @@ Y esto último creo tiene que ver con la operación comercial que Spielberg impl
 A este contexto propiamente cinematográfico habría que añadir el contexto ufológico al que *Encuentros Cercanos* responde, como son los casos de abducción en Pascagoula de 1973 o el de Travis Walton en 1975, así como el famoso incidente de los aviones de guerra con un OVNI en Teherán en 1976, sumado a la negativa de la NASA a reabrir el dossier OVNI durante la presidencia de Jimmy Carter en 1977 (quien por lo demás aseguraba haber sido testigo de un avistamiento OVNI). En este sentido también habría que señalar como un antecedente importante el telefilm de Richard Colla, *The UFO Incident* (1975) sobre el caso de abducción del matrimonio Hill ocurrido en 1961.
 
 <figure style="margin: 0 auto 2rem auto; text-align: center;">
-  <img src="{{ 'assets/images/2026-15-10-visiones-de-vidas/se-cacha-6.jpg' | relative_url }}"
-       alt="El último anzuelo de Gonzalo Solari"
+  <img src="{{ 'assets/images/2026-11-20-del encuentro/the-ufo-incident-1.jpg' | relative_url }}"
+       alt="The UFO incident (1975)"
        style="width:auto;max-height:463px;display:block;margin: 0 auto;">
   <figcaption style="margin-top: 0.75rem; font-size: 0.9rem; color: #555; line-height: 1.5;">
-    <em>El último anzuelo</em> (2025) de Gonzalo Solari [Fotograma modificado].
+    <em>The UFO incident</em> (1975) de Richard Colla [Fotograma modificado].
   </figcaption>
 </figure>
 
@@ -48,11 +48,11 @@ Como decía más arriba, mientras en *Encuentros Cercanos* los protagonistas son
 Otro punto importante es la relación que ambas películas establecen con la religión (o con ese vértice de sentido sin sonido que indica el mito). En *Encuentros Cercanos* la apoteosis final en que los extraterrestres se revelan implica un encuentro con una nueva religiosidad, quizás con la esencia de la religiosidad misma. En contraste con esta apertura espiritual o *new age*, la existencia de los extraterrestres en *El Día de la Revelación* es tematizada como un peligro para la fe religiosa. Cabe recordar aquí ciertas reacciones que la desclasificación en 2026 de los documentos gubernamentales en torno al fenómeno OVNI (FANI o UAP por su nueva sigla en inglés) entablada por la administración Trump, ha producido en el muy empoderado sector de los cristianos fundamentalistas, partiendo por la reacción del católico converso y vice-presidente de Estados Unidos, J.D. Vance quien en su momento declaró: «no creo que sean extraterrestres, creo que son demonios».
 
 <figure style="margin: 0 auto 2rem auto; text-align: center;">
-  <img src="{{ 'assets/images/2026-15-10-visiones-de-vidas/se-cacha-6.jpg' | relative_url }}"
-       alt="El último anzuelo de Gonzalo Solari"
+  <img src="{{ 'assets/images/2026-11-20-del encuentro/el-dia-4.jpg' | relative_url }}"
+       alt="El día de la revelación (2026)"
        style="width:auto;max-height:463px;display:block;margin: 0 auto;">
   <figcaption style="margin-top: 0.75rem; font-size: 0.9rem; color: #555; line-height: 1.5;">
-    <em>El último anzuelo</em> (2025) de Gonzalo Solari [Fotograma modificado].
+    <em>El día de la revelación</em> (2026) [Fotograma modificado].
   </figcaption>
 </figure>
 
@@ -63,11 +63,11 @@ Esto quizás explica el que la aparición de los extraterrestres se haya present
 Y si estiramos el chicle, y entramos en un delirio de interpretación levi-straussiano podríamos decir que el «escuchen» como desenlace de la película, corresponde a lo que en su artículo fundacional sobre *El análisis de los mitos* de 1955, deducía de la comparación del mito de Edipo con el cuento del Grial: en el mito de Edipo el incesto se relaciona con una pregunta sin respuesta (el enigma de la Esfinge), mientras que la castidad de Perceval se relacionaría con una respuesta sin pregunta (cuando el caballero ve pasar el cortejo con el Grial que solucionaría sus problemas, pero del que no se atreve a preguntar). Ese «¡escuchen!» intransitivo, respuesta sin pregunta o respuesta que no responde mucho, podría quizás reforzar la hipótesis de un contraste entre una época de adultos jóvenes reproduciéndose irresponsablemente en el contexto de un miedo global de la sobrepoblación mundial versus la de unos que sucumben responsablemente en la infertilidad. El primero sería un espanto análogo al de la decadencia de Tebas en un exceso hiper-fecundo de pestes de todo tipo, espanto de la sobrepoblación que según Jung —junto con la bomba atómica—, sería causa del surgimiento del mito OVNI como esperanza en la llegada de salvadores celestes de la humanidad. El segundo sería el de una época de jóvenes adultos marcados por la infertilidad y que sería como una variación metonímica de la castidad de Perceval, pero también como un indicador de una nueva relación con la temporalidad, una —como diría François Hartog— descolgada de la esperanza moderna en el progreso y arrepollada en la ansiedad de un presente sin futuro.
 
 <figure style="margin: 0 auto 2rem auto; text-align: center;">
-  <img src="{{ 'assets/images/2026-15-10-visiones-de-vidas/se-cacha-6.jpg' | relative_url }}"
-       alt="El último anzuelo de Gonzalo Solari"
+  <img src="{{ 'assets/images/2026-11-20-del encuentro/et-2.jpg' | relative_url }}"
+       alt="E.T., El extraterrestre"
        style="width:auto;max-height:463px;display:block;margin: 0 auto;">
   <figcaption style="margin-top: 0.75rem; font-size: 0.9rem; color: #555; line-height: 1.5;">
-    <em>El último anzuelo</em> (2025) de Gonzalo Solari [Fotograma modificado].
+    <em>E.T., el extraterreste</em> (1982) [Fotograma modificado].
   </figcaption>
 </figure>
 
@@ -76,11 +76,11 @@ Por último, podríamos decir que el vacío argumental de ese «escuchen» con q
 Muchos lo interpretaron en su momento como la pista de una referencia de Spielberg al Antiguo Testamento, más precisamente al libro del Éxodo en que Dios se revela al pueblo elegido (los contactados), lo que a otros les permitió elucubrar que la película *E.T., el Extraterrestre* estrenada por Spielberg cinco años más tarde, era una referencia al mito de la encarnación cristológica del Nuevo Testamento. Según esta línea interpretativa (que es por ejemplo la de Jean-Bruno Renard) mientras los extraterrestres de *Encuentros Cercanos* son frágiles, etéreos y casi transparentes, en su contextura gruesa y achaparrada, así como en la tonalidad fecal de su epidermis, E.T. afirmaría ese misterio de la manifestación material de Dios, incluida su muerte y resurrección. Siguiendo esa serie especulativa (y saltándonos *La Guerra de los Mundos* de 2005, que es la única película de Spielberg en que los extraterrestres son abiertamente malintencionados) por la pista que nos da el título, *El Día de la Revelación* debería corresponder textualmente al último libro del Nuevo Testamento, el del Apocalipsis. 
 
 <figure style="margin: 0 auto 2rem auto; text-align: center;">
-  <img src="{{ 'assets/images/2026-15-10-visiones-de-vidas/se-cacha-6.jpg' | relative_url }}"
-       alt="El último anzuelo de Gonzalo Solari"
+  <img src="{{ 'assets/images/2026-11-20-del encuentro/encuentros-2.jpg' | relative_url }}"
+       alt="Encuentros cercanos del tercer tipo"
        style="width:auto;max-height:463px;display:block;margin: 0 auto;">
   <figcaption style="margin-top: 0.75rem; font-size: 0.9rem; color: #555; line-height: 1.5;">
-    <em>El último anzuelo</em> (2025) de Gonzalo Solari [Fotograma modificado].
+    <em>Encuentros cercanos del tercer tipo</em> (1977) [Fotograma modificado].
   </figcaption>
 </figure>
 
@@ -129,14 +129,14 @@ Más allá de la pregunta epistemológica sobre la probabilidad estadística —
 
 El hecho de que los extraterrestres de *Encuentros Cercanos* como los de *E.T. el Extraterrestre* hayan sido construidos artesanalmente con disfraces o marionetas y que los de *El Día del Revelación* lo hayan sido mediante CGI, implica por un lado que la revelación o apocalipsis extraterrestre de esta última, no podría nunca deshacerse de la carga de sospecha que arrastran las imágenes digitalmente transmitidas en la actualidad. Apocalipsis, pero apocalipsis a la distancia. Apocalipsis condenado a la infranqueable lejanía que le da la sospecha de ser un simulacro de Apocalipsis.
 
-Y por otro lado implica que la fantasía de una inteligencia, si bien no extraterrestre, pero finalmente no humana (como la que nos permitió comparar el libro del Apocalipsis con *El Día de la Revelación*, y que también permitió generar las imágenes de los animales y extraterrestres en esa película), pareciera estar desplazando el viejo temor apocalíptico de la invasión alienígena (el de *La Guerra de los Mundos* por ejemplo), por un apocalipsis nuevo: el de enfrentarnos no solo a una inteligencia superior a la nuestra, sino que sobre todo, radicalmente extraña a la nuestra. De ahí las recurrentes comparaciones de la inteligencia artificial (más precisamente de los modelos de lenguaje) con «una mente alienígena». Elucubraciones recientes que se combinan con otras, en cierto modo simétricas: la hipótesis de que, de existir una inteligencia extraterrestre avanzada, lo más probable es que sea una inteligencia artificial, entendida como desenlace natural de toda civilización volcada en la maximización de la técnica y del conocimiento. Y esto es algo que, hay que reconocerlo, Spielberg tematizó (con la complicidad de Kubrick según entiendo), en la que, a mi juicio, es su mejor película: *A.I. Inteligencia Artificial* de 2001. Sin embargo, más que extrañeza respecto de la inteligencia artificial, la película apunta a un acercamiento o una identificación, incluso una transferencia de la humanidad hacia las máquinas. En esa película, la esperanza en una redención de la humanidad es reemplazada por la esperanza en una sobrevivencia del humanismo gracias a la inteligencia de unas máquinas del futuro que finalmente se apiadan del niño robot abandonado. Pero Spielberg no dejará de su extrañeza inhumana más que algo en su apariencia, en el hecho de recordarnos a los etéreos extraterrestres de Encuentros Cercanos (más que, por ejemplo, a los androides de *Terminator*).
+Y por otro lado implica que la fantasía de una inteligencia, si bien no extraterrestre, pero finalmente no humana (como la que nos permitió comparar el libro del Apocalipsis con *El Día de la Revelación*, y que también permitió generar las imágenes de los animales y extraterrestres en esa película), pareciera estar desplazando el viejo temor apocalíptico de la invasión alienígena (el de *La Guerra de los Mundos* por ejemplo), por un apocalipsis nuevo: el de enfrentarnos no solo a una inteligencia superior a la nuestra, sino que sobre todo, radicalmente extraña a la nuestra. De ahí las recurrentes comparaciones de la inteligencia artificial (más precisamente de los modelos de lenguaje) con «una mente alienígena». Elucubraciones recientes que se combinan con otras, en cierto modo simétricas: la hipótesis de que, de existir una inteligencia extraterrestre avanzada, lo más probable es que sea una inteligencia artificial, entendida como desenlace natural de toda civilización volcada en la maximización de la técnica y del conocimiento. Y esto es algo que, hay que reconocerlo, Spielberg tematizó (con la complicidad de Kubrick según entiendo), en la que, a mi juicio, es su mejor película: *A.I. Inteligencia Artificial* de 2001. Sin embargo, más que extrañeza respecto de la inteligencia artificial, la película apunta a un acercamiento o una identificación, incluso una transferencia de la humanidad hacia las máquinas. En esa película, la esperanza en una redención de la humanidad es reemplazada por la esperanza en una sobrevivencia del humanismo gracias a la inteligencia de unas máquinas del futuro que finalmente se apiadan del niño robot abandonado. Pero Spielberg no dejará de su extrañeza inhumana más que algo en su apariencia, en el hecho de recordarnos a los etéreos extraterrestres de Encuentros Cercanos (más que, por ejemplo, a los androides de *Terminator*).■ 
 
 <figure style="margin: 0 auto 2rem auto; text-align: center;">
-  <img src="{{ 'assets/images/2026-15-10-visiones-de-vidas/se-cacha-6.jpg' | relative_url }}"
-       alt="El último anzuelo de Gonzalo Solari"
+  <img src="{{ 'assets/images/2026-11-20-del encuentro/el-dia-3.jpg' | relative_url }}"
+       alt="El día de la revelación"
        style="width:auto;max-height:463px;display:block;margin: 0 auto;">
   <figcaption style="margin-top: 0.75rem; font-size: 0.9rem; color: #555; line-height: 1.5;">
-    <em>El último anzuelo</em> (2025) de Gonzalo Solari [Fotograma modificado].
+    <em>El día de la revelación</em> (2026) [Fotograma modificado].
   </figcaption>
 </figure>
 
